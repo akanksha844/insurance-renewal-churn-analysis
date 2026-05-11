@@ -18,3 +18,11 @@ Thumbs.db
 
 # Secrets
 .env
+
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+notebook/.ipynb_checkpoints/
