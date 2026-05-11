@@ -101,12 +101,7 @@ Built Renewal Propensity Dashboard with:
 ## Recommendations
 - Premium customer loyalty discounts
 - Renewal reminders for high & medium-risk users
-- Targeted retention campaigns for Child Care segment
-
----
-
-## Dashboard Preview
-(Add screenshot here)
+- Targeted retention campaigns for Child Care segment    
 
 ---
 
