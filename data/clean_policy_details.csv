@@ -1,0 +1,1339 @@
+customer_id,policy_id,policy_type,expiry_date,premium_amount,payment_status,renewed,Renewed
+1001,POL_10000,Comprehensive,2026-06-16,13507.94,Pending,Churn,Churn%
+1002,POL_10001,Comprehensive,2026-06-20,1380.44,Success,Rention,Retention%
+1003,POL_10002,Women Care,2026-06-16,3559.57,Success,Rention,Retention%
+1004,POL_10003,Child Care,2026-05-19,17587.58,Pending,Churn,Churn%
+1005,POL_10004,Comprehensive,2026-06-13,3093.49,Pending,Churn,Churn%
+1006,POL_10005,Family Health Optima,2026-05-30,3005.3,Pending,Churn,Churn%
+1007,POL_10006,Women Care,2026-06-21,6592.47,Success,Rention,Retention%
+1008,POL_10007,Family Health Optima,2026-05-29,5825.21,Success,Rention,Retention%
+1009,POL_10008,Family Health Optima,2026-05-30,5125.13,Success,Rention,Retention%
+1010,POL_10009,Child Care,2026-06-26,23138.51,Success,Rention,Retention%
+1011,POL_10010,Comprehensive,2026-06-19,2177.06,Success,Rention,Retention%
+1012,POL_10011,Child Care,2026-05-24,22246.98,Success,Rention,Retention%
+1013,POL_10012,Women Care,2026-06-24,1461.47,Success,Rention,Retention%
+1014,POL_10013,Comprehensive,2026-07-02,8872.58,Success,Rention,Retention%
+1015,POL_10014,Family Health Optima,2026-05-11,31689.41,Success,Rention,Retention%
+1016,POL_10015,Family Health Optima,2026-05-29,1469.79,Success,Rention,Retention%
+1017,POL_10016,Family Health Optima,2026-05-12,8637.87,Pending,Churn,Churn%
+1018,POL_10017,Women Care,2026-06-27,1916.14,Success,Rention,Retention%
+1019,POL_10018,Women Care,2026-06-30,8481.91,Success,Rention,Retention%
+1020,POL_10019,Comprehensive,2026-06-24,29469.98,Success,Rention,Retention%
+1021,POL_10020,Child Care,2026-05-16,10583.08,Success,Rention,Retention%
+1022,POL_10021,Comprehensive,2026-05-25,3319.79,Success,Rention,Retention%
+1023,POL_10022,Women Care,2026-05-12,909.61,Success,Rention,Retention%
+1024,POL_10023,Women Care,2026-07-01,30161.5,Success,Rention,Retention%
+1025,POL_10024,Child Care,2026-06-06,4963.12,Pending,Churn,Churn%
+1026,POL_10025,Women Care,2026-06-21,11200.9,Success,Rention,Retention%
+1027,POL_10026,Women Care,2026-06-13,11561.47,Pending,Churn,Churn%
+1028,POL_10027,Comprehensive,2026-05-23,9814.9,Success,Rention,Retention%
+1029,POL_10028,Women Care,2026-07-04,2220.15,Success,Rention,Retention%
+1030,POL_10029,Family Health Optima,2026-05-24,30968.8,Success,Rention,Retention%
+1031,POL_10030,Comprehensive,2026-06-30,28468.46,Success,Rention,Retention%
+1032,POL_10031,Family Health Optima,2026-06-22,1758.55,Success,Rention,Retention%
+1033,POL_10032,Family Health Optima,2026-06-22,3750.24,Success,Rention,Retention%
+1034,POL_10033,Comprehensive,2026-05-17,11016.08,Success,Rention,Retention%
+1035,POL_10034,Comprehensive,2026-05-16,40955.65,Success,Rention,Retention%
+1036,POL_10035,Family Health Optima,2026-06-28,1300.34,Pending,Churn,Churn%
+1037,POL_10036,Family Health Optima,2026-06-12,12489.75,Success,Rention,Retention%
+1038,POL_10037,Child Care,2026-06-19,1841.84,Success,Rention,Retention%
+1039,POL_10038,Child Care,2026-06-05,31819.42,Pending,Churn,Churn%
+1040,POL_10039,Women Care,2026-05-20,38538.69,Success,Rention,Retention%
+1041,POL_10040,Child Care,2026-07-02,2436.85,Success,Rention,Retention%
+1042,POL_10041,Child Care,2026-06-14,3959.81,Success,Rention,Retention%
+1043,POL_10042,Child Care,2026-05-30,5017.98,Success,Rention,Retention%
+1044,POL_10043,Family Health Optima,2026-06-12,5051.01,Pending,Churn,Churn%
+1045,POL_10044,Family Health Optima,2026-05-11,4863.74,Pending,Churn,Churn%
+1046,POL_10045,Child Care,2026-07-02,16504.22,Success,Rention,Retention%
+1047,POL_10046,Family Health Optima,2026-06-04,2714.69,Pending,Churn,Churn%
+1048,POL_10047,Women Care,2026-06-03,2845.54,Success,Rention,Retention%
+1049,POL_10048,Child Care,2026-06-28,10103.92,Pending,Churn,Churn%
+1050,POL_10049,Comprehensive,2026-06-26,30967.34,Success,Rention,Retention%
+1051,POL_10050,Women Care,2026-05-12,1768.9,Success,Rention,Retention%
+1052,POL_10051,Family Health Optima,2026-06-16,2863.86,Success,Rention,Retention%
+1053,POL_10052,Comprehensive,2026-06-06,18854.62,Pending,Churn,Churn%
+1054,POL_10053,Child Care,2026-05-15,30194.06,Success,Rention,Retention%
+1055,POL_10054,Women Care,2026-06-05,6447.74,Success,Rention,Retention%
+1056,POL_10055,Family Health Optima,2026-07-04,37997.19,Pending,Churn,Churn%
+1057,POL_10056,Comprehensive,2026-06-05,10885.9,Success,Rention,Retention%
+1058,POL_10057,Women Care,2026-06-07,27442.54,Success,Rention,Retention%
+1059,POL_10058,Child Care,2026-07-05,18595.83,Pending,Churn,Churn%
+1060,POL_10059,Women Care,2026-06-16,4791.62,Success,Rention,Retention%
+1061,POL_10060,Child Care,2026-07-04,6884.98,Success,Rention,Retention%
+1062,POL_10061,Family Health Optima,2026-06-29,3603.73,Pending,Churn,Churn%
+1063,POL_10062,Women Care,2026-06-16,24133.3,Success,Rention,Retention%
+1064,POL_10063,Women Care,2026-05-17,3306.91,Success,Rention,Retention%
+1065,POL_10064,Women Care,2026-06-28,11769.39,Success,Rention,Retention%
+1066,POL_10065,Child Care,2026-05-23,1394.57,Success,Rention,Retention%
+1067,POL_10066,Comprehensive,2026-06-09,11388.06,Pending,Churn,Churn%
+1068,POL_10067,Women Care,2026-06-26,5111.5,Pending,Churn,Churn%
+1069,POL_10068,Comprehensive,2026-06-29,4736.08,Success,Rention,Retention%
+1070,POL_10069,Child Care,2026-05-10,14130.51,Success,Rention,Retention%
+1071,POL_10070,Comprehensive,2026-06-26,13262.22,Success,Rention,Retention%
+1072,POL_10071,Women Care,2026-06-26,5439.57,Success,Rention,Retention%
+1073,POL_10072,Child Care,2026-07-01,9393.38,Success,Rention,Retention%
+1074,POL_10073,Family Health Optima,2026-06-10,9557.3,Success,Rention,Retention%
+1075,POL_10074,Family Health Optima,2026-05-10,6181.48,Success,Rention,Retention%
+1076,POL_10075,Women Care,2026-06-09,9085.33,Success,Rention,Retention%
+1077,POL_10076,Child Care,2026-05-12,3157.93,Pending,Churn,Churn%
+1078,POL_10077,Family Health Optima,2026-07-06,1225.98,Pending,Churn,Churn%
+1079,POL_10078,Family Health Optima,2026-06-01,2204.02,Success,Rention,Retention%
+1080,POL_10079,Women Care,2026-05-14,5256.82,Success,Rention,Retention%
+1081,POL_10080,Comprehensive,2026-06-25,3552.97,Pending,Churn,Churn%
+1082,POL_10081,Women Care,2026-07-06,6348.23,Success,Rention,Retention%
+1083,POL_10082,Comprehensive,2026-05-11,29732.13,Success,Rention,Retention%
+1084,POL_10083,Child Care,2026-06-13,8826.93,Pending,Churn,Churn%
+1085,POL_10084,Comprehensive,2026-05-27,31869.22,Success,Rention,Retention%
+1086,POL_10085,Family Health Optima,2026-06-29,16878.84,Success,Rention,Retention%
+1087,POL_10086,Women Care,2026-06-16,34863.15,Pending,Churn,Churn%
+1088,POL_10087,Comprehensive,2026-05-19,8858.54,Pending,Churn,Churn%
+1089,POL_10088,Child Care,2026-06-27,6421.34,Success,Rention,Retention%
+1090,POL_10089,Child Care,2026-06-19,8866.06,Success,Rention,Retention%
+1091,POL_10090,Women Care,2026-05-24,1621.58,Pending,Churn,Churn%
+1092,POL_10091,Comprehensive,2026-06-29,8753.7,Success,Rention,Retention%
+1093,POL_10092,Comprehensive,2026-05-09,24147.95,Pending,Churn,Churn%
+1094,POL_10093,Family Health Optima,2026-05-13,4583.21,Pending,Churn,Churn%
+1095,POL_10094,Family Health Optima,2026-07-02,37832.85,Success,Rention,Retention%
+1096,POL_10095,Comprehensive,2026-05-27,3013.5,Pending,Churn,Churn%
+1097,POL_10096,Comprehensive,2026-05-28,9684.26,Success,Rention,Retention%
+1098,POL_10097,Comprehensive,2026-06-10,8181.02,Pending,Churn,Churn%
+1099,POL_10098,Comprehensive,2026-06-26,17930.12,Pending,Churn,Churn%
+1100,POL_10099,Comprehensive,2026-06-17,12656.56,Success,Rention,Retention%
+1101,POL_10100,Women Care,2026-06-25,4948.9,Pending,Churn,Churn%
+1102,POL_10101,Family Health Optima,2026-06-02,2916.07,Success,Rention,Retention%
+1103,POL_10102,Women Care,2026-06-23,17075.88,Success,Rention,Retention%
+1104,POL_10103,Comprehensive,2026-06-12,24753.75,Pending,Churn,Churn%
+1105,POL_10104,Family Health Optima,2026-06-13,4003.08,Success,Rention,Retention%
+1106,POL_10105,Family Health Optima,2026-05-22,14048.3,Success,Rention,Retention%
+1107,POL_10106,Comprehensive,2026-07-03,1865.22,Pending,Churn,Churn%
+1108,POL_10107,Family Health Optima,2026-05-11,3101.84,Success,Rention,Retention%
+1109,POL_10108,Comprehensive,2026-06-25,2293.7,Success,Rention,Retention%
+1110,POL_10109,Child Care,2026-05-30,37644.42,Success,Rention,Retention%
+1111,POL_10110,Women Care,2026-06-07,8660.2,Pending,Churn,Churn%
+1112,POL_10111,Women Care,2026-06-28,9505.09,Pending,Churn,Churn%
+1113,POL_10112,Women Care,2026-06-04,3717.41,Success,Rention,Retention%
+1114,POL_10113,Comprehensive,2026-06-10,1923.78,Success,Rention,Retention%
+1115,POL_10114,Family Health Optima,2026-06-10,9190.66,Success,Rention,Retention%
+1116,POL_10115,Child Care,2026-06-25,24208.0,Success,Rention,Retention%
+1117,POL_10116,Comprehensive,2026-06-26,9105.06,Success,Rention,Retention%
+1118,POL_10117,Women Care,2026-06-05,15286.22,Pending,Churn,Churn%
+1119,POL_10118,Women Care,2026-06-30,6881.06,Success,Rention,Retention%
+1120,POL_10119,Family Health Optima,2026-06-18,5349.14,Pending,Churn,Churn%
+1121,POL_10120,Women Care,2026-06-26,6192.27,Pending,Churn,Churn%
+1122,POL_10121,Comprehensive,2026-06-12,1364.5,Pending,Churn,Churn%
+1123,POL_10122,Comprehensive,2026-05-29,1805.98,Pending,Churn,Churn%
+1124,POL_10123,Comprehensive,2026-05-11,31645.19,Success,Rention,Retention%
+1125,POL_10124,Child Care,2026-06-19,8092.01,Pending,Churn,Churn%
+1126,POL_10125,Comprehensive,2026-05-11,2708.32,Success,Rention,Retention%
+1127,POL_10126,Comprehensive,2026-06-27,13664.86,Success,Rention,Retention%
+1128,POL_10127,Women Care,2026-05-31,7707.63,Success,Rention,Retention%
+1129,POL_10128,Women Care,2026-06-19,26187.35,Success,Rention,Retention%
+1130,POL_10129,Family Health Optima,2026-06-17,4865.93,Success,Rention,Retention%
+1131,POL_10130,Comprehensive,2026-07-01,10252.35,Success,Rention,Retention%
+1132,POL_10131,Child Care,2026-06-19,10893.09,Success,Rention,Retention%
+1133,POL_10132,Family Health Optima,2026-06-27,8930.86,Success,Rention,Retention%
+1134,POL_10133,Child Care,2026-07-05,1306.05,Success,Rention,Retention%
+1135,POL_10134,Comprehensive,2026-06-22,1965.77,Success,Rention,Retention%
+1136,POL_10135,Comprehensive,2026-06-23,1724.54,Success,Rention,Retention%
+1137,POL_10136,Child Care,2026-06-28,1009.15,Success,Rention,Retention%
+1138,POL_10137,Women Care,2026-06-11,1636.55,Success,Rention,Retention%
+1139,POL_10138,Child Care,2026-05-30,21858.18,Success,Rention,Retention%
+1140,POL_10139,Women Care,2026-05-30,1733.38,Pending,Churn,Churn%
+1141,POL_10140,Comprehensive,2026-06-26,21900.72,Success,Rention,Retention%
+1142,POL_10141,Women Care,2026-05-23,2792.44,Success,Rention,Retention%
+1143,POL_10142,Family Health Optima,2026-06-14,15178.0,Pending,Churn,Churn%
+1144,POL_10143,Comprehensive,2026-06-21,14526.3,Success,Rention,Retention%
+1145,POL_10144,Women Care,2026-05-12,16596.79,Success,Rention,Retention%
+1146,POL_10145,Women Care,2026-06-29,4110.61,Success,Rention,Retention%
+1147,POL_10146,Comprehensive,2026-07-02,32576.44,Pending,Churn,Churn%
+1148,POL_10147,Women Care,2026-05-21,7902.09,Success,Rention,Retention%
+1149,POL_10148,Child Care,2026-06-07,8767.75,Pending,Churn,Churn%
+1150,POL_10149,Comprehensive,2026-05-27,1474.02,Pending,Churn,Churn%
+1151,POL_10150,Family Health Optima,2026-06-03,4100.18,Success,Rention,Retention%
+1152,POL_10151,Child Care,2026-05-31,6231.71,Success,Rention,Retention%
+1153,POL_10152,Family Health Optima,2026-06-30,5067.47,Success,Rention,Retention%
+1154,POL_10153,Child Care,2026-05-09,15971.8,Success,Rention,Retention%
+1155,POL_10154,Comprehensive,2026-07-01,5661.75,Success,Rention,Retention%
+1156,POL_10155,Family Health Optima,2026-06-22,5558.96,Success,Rention,Retention%
+1157,POL_10156,Comprehensive,2026-06-16,16978.94,Success,Rention,Retention%
+1158,POL_10157,Family Health Optima,2026-05-30,12414.54,Success,Rention,Retention%
+1159,POL_10158,Women Care,2026-05-20,29560.21,Success,Rention,Retention%
+1160,POL_10159,Women Care,2026-06-14,15799.5,Success,Rention,Retention%
+1161,POL_10160,Comprehensive,2026-05-22,17078.97,Success,Rention,Retention%
+1162,POL_10161,Women Care,2026-06-26,28919.58,Pending,Churn,Churn%
+1163,POL_10162,Family Health Optima,2026-06-29,8360.44,Success,Rention,Retention%
+1164,POL_10163,Women Care,2026-06-03,4121.7,Success,Rention,Retention%
+1165,POL_10164,Comprehensive,2026-06-16,4022.52,Success,Rention,Retention%
+1166,POL_10165,Family Health Optima,2026-06-07,8325.67,Success,Rention,Retention%
+1167,POL_10166,Women Care,2026-05-18,3864.5,Success,Rention,Retention%
+1168,POL_10167,Comprehensive,2026-06-11,4903.04,Success,Rention,Retention%
+1169,POL_10168,Child Care,2026-07-05,2175.42,Success,Rention,Retention%
+1170,POL_10169,Comprehensive,2026-05-09,3862.32,Success,Rention,Retention%
+1171,POL_10170,Comprehensive,2026-05-12,10724.31,Success,Rention,Retention%
+1172,POL_10171,Women Care,2026-07-02,6493.34,Success,Rention,Retention%
+1173,POL_10172,Child Care,2026-06-09,1355.84,Pending,Churn,Churn%
+1174,POL_10173,Women Care,2026-05-20,4196.84,Success,Rention,Retention%
+1175,POL_10174,Family Health Optima,2026-06-10,2284.35,Pending,Churn,Churn%
+1176,POL_10175,Family Health Optima,2026-06-20,39059.56,Success,Rention,Retention%
+1177,POL_10176,Family Health Optima,2026-05-09,5164.69,Success,Rention,Retention%
+1178,POL_10177,Comprehensive,2026-06-20,8348.88,Success,Rention,Retention%
+1179,POL_10178,Child Care,2026-05-20,7058.62,Success,Rention,Retention%
+1180,POL_10179,Women Care,2026-06-28,6830.63,Success,Rention,Retention%
+1181,POL_10180,Women Care,2026-05-25,9388.7,Success,Rention,Retention%
+1182,POL_10181,Women Care,2026-06-03,1305.46,Success,Rention,Retention%
+1183,POL_10182,Child Care,2026-06-11,3204.34,Success,Rention,Retention%
+1184,POL_10183,Women Care,2026-05-12,5935.58,Success,Rention,Retention%
+1185,POL_10184,Child Care,2026-06-22,6185.14,Pending,Churn,Churn%
+1186,POL_10185,Family Health Optima,2026-06-13,35002.67,Pending,Churn,Churn%
+1187,POL_10186,Comprehensive,2026-07-04,3185.58,Success,Rention,Retention%
+1188,POL_10187,Comprehensive,2026-05-17,4260.52,Pending,Churn,Churn%
+1189,POL_10188,Child Care,2026-06-26,5420.77,Success,Rention,Retention%
+1190,POL_10189,Family Health Optima,2026-05-26,3938.34,Pending,Churn,Churn%
+1191,POL_10190,Child Care,2026-06-01,10046.09,Pending,Churn,Churn%
+1192,POL_10191,Comprehensive,2026-06-14,3907.1,Success,Rention,Retention%
+1193,POL_10192,Child Care,2026-05-21,1710.12,Pending,Churn,Churn%
+1194,POL_10193,Women Care,2026-06-18,9635.47,Pending,Churn,Churn%
+1195,POL_10194,Comprehensive,2026-05-28,909.98,Success,Rention,Retention%
+1196,POL_10195,Child Care,2026-05-21,1311.65,Success,Rention,Retention%
+1197,POL_10196,Comprehensive,2026-06-13,4519.78,Pending,Churn,Churn%
+1198,POL_10197,Comprehensive,2026-05-27,6813.46,Success,Rention,Retention%
+1199,POL_10198,Women Care,2026-06-05,7715.4,Success,Rention,Retention%
+1200,POL_10199,Child Care,2026-06-29,11921.22,Success,Rention,Retention%
+1201,POL_10200,Family Health Optima,2026-05-24,1704.54,Success,Rention,Retention%
+1202,POL_10201,Family Health Optima,2026-05-20,7096.92,Success,Rention,Retention%
+1203,POL_10202,Comprehensive,2026-05-29,10409.77,Pending,Churn,Churn%
+1204,POL_10203,Family Health Optima,2026-05-24,29707.12,Success,Rention,Retention%
+1205,POL_10204,Women Care,2026-06-30,5717.69,Pending,Churn,Churn%
+1206,POL_10205,Child Care,2026-05-22,3470.19,Success,Rention,Retention%
+1207,POL_10206,Child Care,2026-06-12,9394.64,Success,Rention,Retention%
+1208,POL_10207,Women Care,2026-05-19,16787.27,Pending,Churn,Churn%
+1209,POL_10208,Women Care,2026-05-17,11104.76,Pending,Churn,Churn%
+1210,POL_10209,Family Health Optima,2026-05-25,5288.09,Pending,Churn,Churn%
+1211,POL_10210,Family Health Optima,2026-06-23,1584.06,Success,Rention,Retention%
+1212,POL_10211,Women Care,2026-05-17,6530.18,Pending,Churn,Churn%
+1213,POL_10212,Family Health Optima,2026-05-10,2830.16,Success,Rention,Retention%
+1214,POL_10213,Child Care,2026-06-15,4002.22,Success,Rention,Retention%
+1215,POL_10214,Family Health Optima,2026-06-22,6816.02,Pending,Churn,Churn%
+1216,POL_10215,Child Care,2026-05-25,5897.42,Pending,Churn,Churn%
+1217,POL_10216,Comprehensive,2026-06-22,8284.51,Success,Rention,Retention%
+1218,POL_10217,Child Care,2026-06-08,1986.99,Pending,Churn,Churn%
+1219,POL_10218,Child Care,2026-07-01,2714.38,Success,Rention,Retention%
+1220,POL_10219,Child Care,2026-06-03,20065.42,Success,Rention,Retention%
+1221,POL_10220,Family Health Optima,2026-05-11,4009.98,Success,Rention,Retention%
+1222,POL_10221,Women Care,2026-06-05,8451.9,Success,Rention,Retention%
+1223,POL_10222,Comprehensive,2026-06-05,4202.82,Success,Rention,Retention%
+1224,POL_10223,Child Care,2026-06-18,27823.7,Pending,Churn,Churn%
+1225,POL_10224,Comprehensive,2026-05-21,15612.43,Pending,Churn,Churn%
+1226,POL_10225,Family Health Optima,2026-06-26,9589.74,Pending,Churn,Churn%
+1227,POL_10226,Family Health Optima,2026-06-15,2151.6,Pending,Churn,Churn%
+1228,POL_10227,Family Health Optima,2026-06-21,19381.87,Pending,Churn,Churn%
+1229,POL_10228,Family Health Optima,2026-06-24,5886.54,Success,Rention,Retention%
+1230,POL_10229,Child Care,2026-05-29,7380.21,Pending,Churn,Churn%
+1231,POL_10230,Child Care,2026-06-13,5954.91,Success,Rention,Retention%
+1232,POL_10231,Women Care,2026-07-04,11201.03,Success,Rention,Retention%
+1233,POL_10232,Women Care,2026-06-26,1382.23,Success,Rention,Retention%
+1234,POL_10233,Family Health Optima,2026-05-09,9867.06,Success,Rention,Retention%
+1235,POL_10234,Comprehensive,2026-05-11,5368.15,Pending,Churn,Churn%
+1236,POL_10235,Comprehensive,2026-05-19,15555.42,Pending,Churn,Churn%
+1237,POL_10236,Comprehensive,2026-05-24,1292.62,Success,Rention,Retention%
+1238,POL_10237,Comprehensive,2026-06-01,3570.57,Success,Rention,Retention%
+1239,POL_10238,Comprehensive,2026-07-05,13882.14,Success,Rention,Retention%
+1240,POL_10239,Women Care,2026-05-16,5722.14,Success,Rention,Retention%
+1241,POL_10240,Comprehensive,2026-06-05,30809.3,Success,Rention,Retention%
+1242,POL_10241,Comprehensive,2026-06-13,4283.26,Success,Rention,Retention%
+1243,POL_10242,Family Health Optima,2026-05-25,28128.1,Success,Rention,Retention%
+1244,POL_10243,Family Health Optima,2026-05-28,5757.5,Success,Rention,Retention%
+1245,POL_10244,Family Health Optima,2026-06-06,23618.54,Pending,Churn,Churn%
+1246,POL_10245,Women Care,2026-05-14,19581.18,Success,Rention,Retention%
+1247,POL_10246,Child Care,2026-05-13,10118.96,Pending,Churn,Churn%
+1248,POL_10247,Comprehensive,2026-05-18,1589.54,Pending,Churn,Churn%
+1249,POL_10248,Family Health Optima,2026-07-06,1465.67,Success,Rention,Retention%
+1250,POL_10249,Family Health Optima,2026-07-03,3232.45,Pending,Churn,Churn%
+1251,POL_10250,Comprehensive,2026-05-26,10263.57,Pending,Churn,Churn%
+1252,POL_10251,Family Health Optima,2026-05-19,37844.25,Pending,Churn,Churn%
+1253,POL_10252,Women Care,2026-06-02,35408.6,Pending,Churn,Churn%
+1254,POL_10253,Family Health Optima,2026-06-26,3408.59,Success,Rention,Retention%
+1255,POL_10254,Child Care,2026-06-18,32877.73,Success,Rention,Retention%
+1256,POL_10255,Comprehensive,2026-05-29,10437.86,Success,Rention,Retention%
+1257,POL_10256,Family Health Optima,2026-06-05,35136.94,Success,Rention,Retention%
+1258,POL_10257,Women Care,2026-05-13,4320.78,Pending,Churn,Churn%
+1259,POL_10258,Family Health Optima,2026-05-31,9216.08,Pending,Churn,Churn%
+1260,POL_10259,Women Care,2026-05-18,27000.23,Success,Rention,Retention%
+1261,POL_10260,Women Care,2026-05-29,9469.73,Success,Rention,Retention%
+1262,POL_10261,Child Care,2026-05-09,13668.22,Success,Rention,Retention%
+1263,POL_10262,Women Care,2026-05-12,19895.87,Pending,Churn,Churn%
+1264,POL_10263,Comprehensive,2026-06-17,28975.53,Success,Rention,Retention%
+1265,POL_10264,Comprehensive,2026-06-08,16370.4,Success,Rention,Retention%
+1266,POL_10265,Women Care,2026-07-05,36920.9,Success,Rention,Retention%
+1267,POL_10266,Child Care,2026-05-11,13743.62,Success,Rention,Retention%
+1268,POL_10267,Women Care,2026-05-09,11672.5,Pending,Churn,Churn%
+1269,POL_10268,Women Care,2026-06-07,5952.84,Pending,Churn,Churn%
+1270,POL_10269,Comprehensive,2026-05-25,7425.98,Success,Rention,Retention%
+1271,POL_10270,Child Care,2026-05-31,1375.55,Pending,Churn,Churn%
+1272,POL_10271,Women Care,2026-05-22,34285.47,Pending,Churn,Churn%
+1273,POL_10272,Women Care,2026-06-16,5812.56,Success,Rention,Retention%
+1274,POL_10273,Women Care,2026-06-11,7694.13,Success,Rention,Retention%
+1275,POL_10274,Women Care,2026-05-26,2018.54,Success,Rention,Retention%
+1276,POL_10275,Child Care,2026-06-28,7772.67,Pending,Churn,Churn%
+1277,POL_10276,Women Care,2026-07-04,2242.96,Success,Rention,Retention%
+1278,POL_10277,Comprehensive,2026-05-23,1720.38,Success,Rention,Retention%
+1279,POL_10278,Child Care,2026-06-19,10343.03,Success,Rention,Retention%
+1280,POL_10279,Comprehensive,2026-06-06,7884.1,Success,Rention,Retention%
+1281,POL_10280,Women Care,2026-05-25,17865.26,Pending,Churn,Churn%
+1282,POL_10281,Comprehensive,2026-05-28,38839.34,Success,Rention,Retention%
+1283,POL_10282,Family Health Optima,2026-05-14,3389.7,Success,Rention,Retention%
+1284,POL_10283,Child Care,2026-06-20,9503.28,Success,Rention,Retention%
+1285,POL_10284,Child Care,2026-06-28,7700.74,Success,Rention,Retention%
+1286,POL_10285,Comprehensive,2026-07-02,6193.69,Success,Rention,Retention%
+1287,POL_10286,Comprehensive,2026-07-01,7546.34,Success,Rention,Retention%
+1288,POL_10287,Comprehensive,2026-06-17,11404.95,Success,Rention,Retention%
+1289,POL_10288,Comprehensive,2026-05-11,38317.43,Success,Rention,Retention%
+1290,POL_10289,Comprehensive,2026-06-06,20794.26,Success,Rention,Retention%
+1291,POL_10290,Child Care,2026-07-05,2537.62,Success,Rention,Retention%
+1292,POL_10291,Women Care,2026-05-13,16222.25,Success,Rention,Retention%
+1293,POL_10292,Family Health Optima,2026-05-30,33689.79,Success,Rention,Retention%
+1294,POL_10293,Family Health Optima,2026-05-13,1725.4,Success,Rention,Retention%
+1295,POL_10294,Women Care,2026-06-23,3124.9,Success,Rention,Retention%
+1296,POL_10295,Family Health Optima,2026-06-03,1363.66,Success,Rention,Retention%
+1297,POL_10296,Family Health Optima,2026-06-03,13038.28,Success,Rention,Retention%
+1298,POL_10297,Child Care,2026-05-30,17582.94,Success,Rention,Retention%
+1299,POL_10298,Child Care,2026-06-20,30997.09,Success,Rention,Retention%
+1300,POL_10299,Women Care,2026-05-25,7399.6,Pending,Churn,Churn%
+1301,POL_10300,Family Health Optima,2026-05-16,5397.39,Success,Rention,Retention%
+1302,POL_10301,Child Care,2026-06-29,19898.7,Success,Rention,Retention%
+1303,POL_10302,Women Care,2026-07-03,9812.41,Success,Rention,Retention%
+1304,POL_10303,Child Care,2026-06-05,3479.57,Success,Rention,Retention%
+1305,POL_10304,Family Health Optima,2026-05-10,10116.97,Success,Rention,Retention%
+1306,POL_10305,Comprehensive,2026-07-06,15553.88,Success,Rention,Retention%
+1307,POL_10306,Child Care,2026-05-11,16142.14,Pending,Churn,Churn%
+1308,POL_10307,Child Care,2026-06-20,3320.82,Success,Rention,Retention%
+1309,POL_10308,Women Care,2026-05-26,9555.67,Success,Rention,Retention%
+1310,POL_10309,Child Care,2026-06-28,6199.33,Success,Rention,Retention%
+1311,POL_10310,Family Health Optima,2026-07-02,6755.58,Success,Rention,Retention%
+1312,POL_10311,Family Health Optima,2026-06-16,1389.9,Pending,Churn,Churn%
+1313,POL_10312,Women Care,2026-05-30,33699.62,Success,Rention,Retention%
+1314,POL_10313,Family Health Optima,2026-06-02,6499.53,Success,Rention,Retention%
+1315,POL_10314,Comprehensive,2026-06-02,27871.1,Success,Rention,Retention%
+1316,POL_10315,Family Health Optima,2026-06-18,7778.22,Success,Rention,Retention%
+1317,POL_10316,Child Care,2026-06-13,7068.21,Pending,Churn,Churn%
+1318,POL_10317,Comprehensive,2026-06-24,8348.06,Success,Rention,Retention%
+1319,POL_10318,Child Care,2026-06-21,5936.95,Success,Rention,Retention%
+1320,POL_10319,Women Care,2026-06-14,3734.09,Pending,Churn,Churn%
+1321,POL_10320,Child Care,2026-06-11,3915.8,Success,Rention,Retention%
+1322,POL_10321,Women Care,2026-06-22,19737.33,Success,Rention,Retention%
+1323,POL_10322,Family Health Optima,2026-06-10,28393.31,Success,Rention,Retention%
+1324,POL_10323,Women Care,2026-05-14,9253.04,Success,Rention,Retention%
+1325,POL_10324,Women Care,2026-05-12,2292.87,Success,Rention,Retention%
+1326,POL_10325,Child Care,2026-06-07,5280.17,Success,Rention,Retention%
+1327,POL_10326,Child Care,2026-05-17,2849.51,Success,Rention,Retention%
+1328,POL_10327,Comprehensive,2026-06-08,34208.4,Success,Rention,Retention%
+1329,POL_10328,Child Care,2026-06-01,38342.42,Pending,Churn,Churn%
+1330,POL_10329,Comprehensive,2026-05-28,7315.66,Pending,Churn,Churn%
+1331,POL_10330,Women Care,2026-05-23,38814.05,Pending,Churn,Churn%
+1332,POL_10331,Comprehensive,2026-06-07,19514.9,Pending,Churn,Churn%
+1333,POL_10332,Women Care,2026-07-04,10743.23,Success,Rention,Retention%
+1334,POL_10333,Women Care,2026-05-16,9326.7,Success,Rention,Retention%
+1335,POL_10334,Family Health Optima,2026-06-21,15315.66,Success,Rention,Retention%
+1336,POL_10335,Comprehensive,2026-07-01,11058.24,Success,Rention,Retention%
+1337,POL_10336,Comprehensive,2026-06-10,9714.06,Success,Rention,Retention%
+1338,POL_10337,Family Health Optima,2026-06-24,11150.14,Success,Rention,Retention%
+1339,POL_10338,Family Health Optima,2026-06-15,33535.28,Success,Rention,Retention%
+1340,POL_10339,Family Health Optima,2026-06-13,6586.11,Success,Rention,Retention%
+1341,POL_10340,Women Care,2026-06-10,15164.18,Success,Rention,Retention%
+1342,POL_10341,Family Health Optima,2026-05-18,10681.68,Success,Rention,Retention%
+1343,POL_10342,Women Care,2026-06-21,10573.67,Success,Rention,Retention%
+1344,POL_10343,Comprehensive,2026-05-10,11185.48,Success,Rention,Retention%
+1345,POL_10344,Family Health Optima,2026-06-14,8781.77,Pending,Churn,Churn%
+1346,POL_10345,Child Care,2026-05-19,4947.44,Success,Rention,Retention%
+1347,POL_10346,Child Care,2026-07-02,3912.0,Success,Rention,Retention%
+1348,POL_10347,Family Health Optima,2026-06-26,6667.57,Pending,Churn,Churn%
+1349,POL_10348,Women Care,2026-06-21,4382.43,Success,Rention,Retention%
+1350,POL_10349,Child Care,2026-07-03,1308.58,Pending,Churn,Churn%
+1351,POL_10350,Child Care,2026-05-20,9464.49,Success,Rention,Retention%
+1352,POL_10351,Comprehensive,2026-06-17,7145.66,Success,Rention,Retention%
+1353,POL_10352,Comprehensive,2026-06-06,2843.36,Pending,Churn,Churn%
+1354,POL_10353,Women Care,2026-06-14,9923.9,Pending,Churn,Churn%
+1355,POL_10354,Family Health Optima,2026-06-12,11306.43,Success,Rention,Retention%
+1356,POL_10355,Child Care,2026-05-27,19682.44,Success,Rention,Retention%
+1357,POL_10356,Family Health Optima,2026-05-12,7155.3,Pending,Churn,Churn%
+1358,POL_10357,Women Care,2026-06-02,7696.26,Pending,Churn,Churn%
+1359,POL_10358,Comprehensive,2026-06-16,1469.82,Success,Rention,Retention%
+1360,POL_10359,Family Health Optima,2026-06-28,1286.01,Success,Rention,Retention%
+1361,POL_10360,Child Care,2026-05-31,8034.6,Success,Rention,Retention%
+1362,POL_10361,Family Health Optima,2026-06-02,3800.86,Pending,Churn,Churn%
+1363,POL_10362,Women Care,2026-07-02,11075.61,Success,Rention,Retention%
+1364,POL_10363,Comprehensive,2026-06-17,2078.22,Success,Rention,Retention%
+1365,POL_10364,Women Care,2026-06-28,2544.41,Pending,Churn,Churn%
+1366,POL_10365,Child Care,2026-05-15,7822.68,Success,Rention,Retention%
+1367,POL_10366,Child Care,2026-06-29,10744.22,Pending,Churn,Churn%
+1368,POL_10367,Comprehensive,2026-06-10,6413.65,Pending,Churn,Churn%
+1369,POL_10368,Comprehensive,2026-06-04,6493.02,Pending,Churn,Churn%
+1370,POL_10369,Family Health Optima,2026-07-04,2785.5,Pending,Churn,Churn%
+1371,POL_10370,Child Care,2026-06-04,10732.03,Success,Rention,Retention%
+1372,POL_10371,Women Care,2026-05-12,9623.43,Pending,Churn,Churn%
+1373,POL_10372,Child Care,2026-05-13,6111.54,Pending,Churn,Churn%
+1374,POL_10373,Women Care,2026-07-01,28868.18,Success,Rention,Retention%
+1375,POL_10374,Comprehensive,2026-06-24,1113.22,Success,Rention,Retention%
+1376,POL_10375,Comprehensive,2026-06-29,14427.18,Success,Rention,Retention%
+1377,POL_10376,Family Health Optima,2026-05-16,17327.94,Success,Rention,Retention%
+1378,POL_10377,Comprehensive,2026-05-12,30501.0,Pending,Churn,Churn%
+1379,POL_10378,Child Care,2026-06-04,13164.57,Success,Rention,Retention%
+1380,POL_10379,Comprehensive,2026-06-13,21600.78,Pending,Churn,Churn%
+1381,POL_10380,Family Health Optima,2026-06-04,12005.26,Pending,Churn,Churn%
+1382,POL_10381,Comprehensive,2026-05-18,33842.95,Success,Rention,Retention%
+1383,POL_10382,Child Care,2026-05-16,16625.19,Success,Rention,Retention%
+1384,POL_10383,Child Care,2026-06-23,4677.54,Success,Rention,Retention%
+1385,POL_10384,Comprehensive,2026-05-21,6642.03,Success,Rention,Retention%
+1386,POL_10385,Family Health Optima,2026-06-02,1009.49,Success,Rention,Retention%
+1387,POL_10386,Comprehensive,2026-06-20,9485.13,Success,Rention,Retention%
+1388,POL_10387,Comprehensive,2026-06-25,24227.71,Pending,Churn,Churn%
+1389,POL_10388,Comprehensive,2026-06-14,2541.46,Success,Rention,Retention%
+1390,POL_10389,Comprehensive,2026-06-26,3694.46,Success,Rention,Retention%
+1391,POL_10390,Women Care,2026-05-17,8589.5,Success,Rention,Retention%
+1392,POL_10391,Comprehensive,2026-05-22,1710.46,Pending,Churn,Churn%
+1393,POL_10392,Child Care,2026-05-19,7171.25,Success,Rention,Retention%
+1394,POL_10393,Family Health Optima,2026-06-14,7432.11,Success,Rention,Retention%
+1395,POL_10394,Women Care,2026-06-13,7528.81,Pending,Churn,Churn%
+1396,POL_10395,Child Care,2026-05-09,6021.37,Success,Rention,Retention%
+1397,POL_10396,Comprehensive,2026-06-28,6817.6,Success,Rention,Retention%
+1398,POL_10397,Family Health Optima,2026-06-24,13269.2,Pending,Churn,Churn%
+1399,POL_10398,Comprehensive,2026-05-18,11990.74,Pending,Churn,Churn%
+1400,POL_10399,Family Health Optima,2026-06-03,1305.34,Success,Rention,Retention%
+1401,POL_10400,Family Health Optima,2026-06-29,7411.84,Pending,Churn,Churn%
+1402,POL_10401,Women Care,2026-06-15,6467.14,Success,Rention,Retention%
+1403,POL_10402,Women Care,2026-06-04,11754.14,Pending,Churn,Churn%
+1404,POL_10403,Child Care,2026-06-20,8215.57,Success,Rention,Retention%
+1405,POL_10404,Women Care,2026-06-28,2608.16,Success,Rention,Retention%
+1406,POL_10405,Comprehensive,2026-05-15,9117.52,Success,Rention,Retention%
+1407,POL_10406,Family Health Optima,2026-06-01,3348.08,Success,Rention,Retention%
+1408,POL_10407,Women Care,2026-06-20,6831.74,Success,Rention,Retention%
+1409,POL_10408,Family Health Optima,2026-06-27,5322.02,Success,Rention,Retention%
+1410,POL_10409,Comprehensive,2026-05-25,3259.56,Success,Rention,Retention%
+1411,POL_10410,Women Care,2026-05-28,1297.07,Pending,Churn,Churn%
+1412,POL_10411,Family Health Optima,2026-06-17,15675.85,Success,Rention,Retention%
+1413,POL_10412,Family Health Optima,2026-06-09,11564.51,Success,Rention,Retention%
+1414,POL_10413,Child Care,2026-06-28,4064.08,Pending,Churn,Churn%
+1415,POL_10414,Women Care,2026-06-09,1707.92,Success,Rention,Retention%
+1416,POL_10415,Family Health Optima,2026-06-22,5876.58,Success,Rention,Retention%
+1417,POL_10416,Child Care,2026-06-17,7312.76,Success,Rention,Retention%
+1418,POL_10417,Child Care,2026-05-22,14886.61,Success,Rention,Retention%
+1419,POL_10418,Women Care,2026-05-10,11534.62,Success,Rention,Retention%
+1420,POL_10419,Women Care,2026-06-27,23160.38,Success,Rention,Retention%
+1421,POL_10420,Family Health Optima,2026-05-12,37511.41,Success,Rention,Retention%
+1422,POL_10421,Child Care,2026-07-02,37279.29,Pending,Churn,Churn%
+1423,POL_10422,Women Care,2026-05-18,31300.26,Pending,Churn,Churn%
+1424,POL_10423,Comprehensive,2026-06-11,2181.92,Pending,Churn,Churn%
+1425,POL_10424,Comprehensive,2026-07-02,7174.66,Pending,Churn,Churn%
+1426,POL_10425,Family Health Optima,2026-05-15,7831.1,Success,Rention,Retention%
+1427,POL_10426,Child Care,2026-07-04,5244.06,Success,Rention,Retention%
+1428,POL_10427,Child Care,2026-05-31,5858.98,Success,Rention,Retention%
+1429,POL_10428,Women Care,2026-05-16,2533.97,Success,Rention,Retention%
+1430,POL_10429,Child Care,2026-06-14,15043.8,Pending,Churn,Churn%
+1431,POL_10430,Child Care,2026-06-05,18466.37,Pending,Churn,Churn%
+1432,POL_10431,Comprehensive,2026-06-12,3925.13,Pending,Churn,Churn%
+1433,POL_10432,Comprehensive,2026-06-09,4775.78,Pending,Churn,Churn%
+1434,POL_10433,Comprehensive,2026-05-24,10110.56,Pending,Churn,Churn%
+1435,POL_10434,Family Health Optima,2026-07-01,3394.87,Success,Rention,Retention%
+1436,POL_10435,Comprehensive,2026-07-02,11135.86,Success,Rention,Retention%
+1437,POL_10436,Child Care,2026-05-18,1803.84,Pending,Churn,Churn%
+1438,POL_10437,Child Care,2026-05-29,4741.48,Success,Rention,Retention%
+1439,POL_10438,Comprehensive,2026-05-27,10074.02,Success,Rention,Retention%
+1440,POL_10439,Women Care,2026-05-26,2317.86,Pending,Churn,Churn%
+1441,POL_10440,Comprehensive,2026-05-13,3790.62,Success,Rention,Retention%
+1442,POL_10441,Child Care,2026-05-10,29663.5,Success,Rention,Retention%
+1443,POL_10442,Comprehensive,2026-05-20,919.52,Success,Rention,Retention%
+1444,POL_10443,Comprehensive,2026-06-15,22630.32,Success,Rention,Retention%
+1445,POL_10444,Family Health Optima,2026-06-11,20887.46,Success,Rention,Retention%
+1446,POL_10445,Women Care,2026-06-29,5876.06,Pending,Churn,Churn%
+1447,POL_10446,Family Health Optima,2026-06-01,10184.8,Pending,Churn,Churn%
+1448,POL_10447,Child Care,2026-07-03,9163.22,Pending,Churn,Churn%
+1449,POL_10448,Family Health Optima,2026-06-09,4728.75,Success,Rention,Retention%
+1450,POL_10449,Women Care,2026-05-25,3809.86,Pending,Churn,Churn%
+1451,POL_10450,Family Health Optima,2026-05-10,6009.82,Success,Rention,Retention%
+1452,POL_10451,Women Care,2026-05-17,3225.79,Success,Rention,Retention%
+1453,POL_10452,Comprehensive,2026-06-23,1575.69,Success,Rention,Retention%
+1454,POL_10453,Family Health Optima,2026-06-06,1415.62,Success,Rention,Retention%
+1455,POL_10454,Child Care,2026-06-14,3749.11,Pending,Churn,Churn%
+1456,POL_10455,Women Care,2026-05-29,17437.6,Success,Rention,Retention%
+1457,POL_10456,Women Care,2026-06-15,9505.58,Success,Rention,Retention%
+1458,POL_10457,Women Care,2026-06-02,9472.62,Pending,Churn,Churn%
+1459,POL_10458,Family Health Optima,2026-05-31,8481.13,Success,Rention,Retention%
+1460,POL_10459,Child Care,2026-05-29,6146.14,Pending,Churn,Churn%
+1461,POL_10460,Child Care,2026-05-14,8305.18,Success,Rention,Retention%
+1462,POL_10461,Family Health Optima,2026-05-20,17715.22,Success,Rention,Retention%
+1463,POL_10462,Women Care,2026-05-15,12184.26,Pending,Churn,Churn%
+1464,POL_10463,Family Health Optima,2026-06-03,8932.34,Success,Rention,Retention%
+1465,POL_10464,Women Care,2026-07-05,1305.63,Success,Rention,Retention%
+1466,POL_10465,Child Care,2026-07-01,15617.58,Success,Rention,Retention%
+1467,POL_10466,Comprehensive,2026-06-30,10579.75,Pending,Churn,Churn%
+1468,POL_10467,Family Health Optima,2026-06-06,10114.7,Pending,Churn,Churn%
+1469,POL_10468,Comprehensive,2026-05-19,18631.14,Pending,Churn,Churn%
+1470,POL_10469,Child Care,2026-07-06,1760.88,Success,Rention,Retention%
+1471,POL_10470,Women Care,2026-07-01,1997.63,Success,Rention,Retention%
+1472,POL_10471,Women Care,2026-06-01,1762.78,Success,Rention,Retention%
+1473,POL_10472,Family Health Optima,2026-07-03,1395.58,Success,Rention,Retention%
+1474,POL_10473,Comprehensive,2026-06-24,16703.02,Success,Rention,Retention%
+1475,POL_10474,Child Care,2026-06-29,20305.84,Pending,Churn,Churn%
+1476,POL_10475,Family Health Optima,2026-07-06,23094.93,Success,Rention,Retention%
+1477,POL_10476,Women Care,2026-05-17,28118.02,Success,Rention,Retention%
+1478,POL_10477,Family Health Optima,2026-05-17,2027.51,Success,Rention,Retention%
+1479,POL_10478,Family Health Optima,2026-05-09,1227.44,Pending,Churn,Churn%
+1480,POL_10479,Women Care,2026-06-17,1459.43,Success,Rention,Retention%
+1481,POL_10480,Child Care,2026-06-12,12444.15,Success,Rention,Retention%
+1482,POL_10481,Comprehensive,2026-06-21,7443.76,Pending,Churn,Churn%
+1483,POL_10482,Women Care,2026-06-15,1297.75,Success,Rention,Retention%
+1484,POL_10483,Comprehensive,2026-06-14,7904.06,Pending,Churn,Churn%
+1485,POL_10484,Family Health Optima,2026-06-26,7650.42,Pending,Churn,Churn%
+1486,POL_10485,Child Care,2026-07-04,3477.62,Success,Rention,Retention%
+1487,POL_10486,Women Care,2026-05-20,9980.28,Pending,Churn,Churn%
+1488,POL_10487,Comprehensive,2026-05-27,1003.15,Success,Rention,Retention%
+1489,POL_10488,Child Care,2026-05-25,39108.11,Pending,Churn,Churn%
+1490,POL_10489,Women Care,2026-05-24,8369.58,Pending,Churn,Churn%
+1491,POL_10490,Family Health Optima,2026-05-26,1399.02,Success,Rention,Retention%
+1492,POL_10491,Women Care,2026-07-06,19610.47,Success,Rention,Retention%
+1493,POL_10492,Child Care,2026-06-03,1757.18,Success,Rention,Retention%
+1494,POL_10493,Child Care,2026-05-24,10059.24,Pending,Churn,Churn%
+1495,POL_10494,Family Health Optima,2026-06-03,14353.69,Success,Rention,Retention%
+1496,POL_10495,Women Care,2026-05-15,1573.62,Success,Rention,Retention%
+1497,POL_10496,Family Health Optima,2026-05-15,3945.32,Success,Rention,Retention%
+1498,POL_10497,Women Care,2026-05-16,6422.38,Success,Rention,Retention%
+1499,POL_10498,Women Care,2026-06-06,6568.88,Pending,Churn,Churn%
+1500,POL_10499,Child Care,2026-06-29,10776.69,Success,Rention,Retention%
+1501,POL_10500,Women Care,2026-07-06,28958.16,Success,Rention,Retention%
+1502,POL_10501,Child Care,2026-05-22,5469.9,Success,Rention,Retention%
+1503,POL_10502,Comprehensive,2026-06-21,17774.49,Success,Rention,Retention%
+1504,POL_10503,Family Health Optima,2026-05-11,26038.67,Success,Rention,Retention%
+1505,POL_10504,Child Care,2026-06-03,4779.5,Success,Rention,Retention%
+1506,POL_10505,Child Care,2026-06-16,5437.49,Pending,Churn,Churn%
+1507,POL_10506,Family Health Optima,2026-05-12,2114.62,Success,Rention,Retention%
+1508,POL_10507,Women Care,2026-05-21,2461.68,Success,Rention,Retention%
+1509,POL_10508,Women Care,2026-06-22,2435.37,Pending,Churn,Churn%
+1510,POL_10509,Child Care,2026-05-10,9164.22,Success,Rention,Retention%
+1511,POL_10510,Women Care,2026-06-11,9410.4,Success,Rention,Retention%
+1512,POL_10511,Family Health Optima,2026-05-21,1998.73,Success,Rention,Retention%
+1513,POL_10512,Child Care,2026-06-09,7489.06,Success,Rention,Retention%
+1514,POL_10513,Comprehensive,2026-06-23,1005.04,Success,Rention,Retention%
+1515,POL_10514,Family Health Optima,2026-06-26,16865.73,Success,Rention,Retention%
+1516,POL_10515,Family Health Optima,2026-06-21,9090.21,Success,Rention,Retention%
+1517,POL_10516,Child Care,2026-06-21,22179.43,Success,Rention,Retention%
+1518,POL_10517,Family Health Optima,2026-06-07,6730.77,Success,Rention,Retention%
+1519,POL_10518,Family Health Optima,2026-05-28,4192.62,Pending,Churn,Churn%
+1520,POL_10519,Child Care,2026-06-26,3086.21,Success,Rention,Retention%
+1521,POL_10520,Women Care,2026-07-03,20525.26,Pending,Churn,Churn%
+1522,POL_10521,Women Care,2026-05-26,3195.34,Success,Rention,Retention%
+1523,POL_10522,Family Health Optima,2026-06-25,7893.04,Pending,Churn,Churn%
+1524,POL_10523,Family Health Optima,2026-05-23,4318.1,Success,Rention,Retention%
+1525,POL_10524,Comprehensive,2026-07-04,30596.47,Success,Rention,Retention%
+1526,POL_10525,Women Care,2026-07-06,9186.1,Pending,Churn,Churn%
+1527,POL_10526,Child Care,2026-06-14,19247.74,Success,Rention,Retention%
+1528,POL_10527,Comprehensive,2026-06-16,7888.82,Pending,Churn,Churn%
+1529,POL_10528,Child Care,2026-06-01,6674.33,Pending,Churn,Churn%
+1530,POL_10529,Family Health Optima,2026-06-11,1366.4,Pending,Churn,Churn%
+1531,POL_10530,Child Care,2026-05-12,38940.42,Success,Rention,Retention%
+1532,POL_10531,Child Care,2026-06-06,11234.78,Success,Rention,Retention%
+1533,POL_10532,Family Health Optima,2026-06-28,10340.71,Success,Rention,Retention%
+1534,POL_10533,Women Care,2026-06-20,15371.77,Success,Rention,Retention%
+1535,POL_10534,Family Health Optima,2026-06-18,11064.9,Pending,Churn,Churn%
+1536,POL_10535,Women Care,2026-07-03,4853.7,Pending,Churn,Churn%
+1537,POL_10536,Child Care,2026-07-01,4777.9,Success,Rention,Retention%
+1538,POL_10537,Child Care,2026-05-17,7060.07,Success,Rention,Retention%
+1539,POL_10538,Family Health Optima,2026-06-26,6586.48,Success,Rention,Retention%
+1540,POL_10539,Women Care,2026-06-12,21876.83,Success,Rention,Retention%
+1541,POL_10540,Comprehensive,2026-05-25,4957.16,Pending,Churn,Churn%
+1542,POL_10541,Women Care,2026-06-12,2445.11,Success,Rention,Retention%
+1543,POL_10542,Family Health Optima,2026-06-24,11109.76,Success,Rention,Retention%
+1544,POL_10543,Family Health Optima,2026-05-22,51016.34,Success,Rention,Retention%
+1545,POL_10544,Comprehensive,2026-06-18,8185.2,Success,Rention,Retention%
+1546,POL_10545,Family Health Optima,2026-06-05,19045.79,Pending,Churn,Churn%
+1547,POL_10546,Women Care,2026-06-02,2615.08,Pending,Churn,Churn%
+1548,POL_10547,Child Care,2026-05-17,9230.74,Success,Rention,Retention%
+1549,POL_10548,Child Care,2026-05-13,2570.9,Success,Rention,Retention%
+1550,POL_10549,Comprehensive,2026-06-01,36690.57,Success,Rention,Retention%
+1551,POL_10550,Child Care,2026-05-16,10712.45,Pending,Churn,Churn%
+1552,POL_10551,Women Care,2026-06-03,3178.34,Success,Rention,Retention%
+1553,POL_10552,Family Health Optima,2026-06-25,10365.7,Pending,Churn,Churn%
+1554,POL_10553,Family Health Optima,2026-05-21,8950.13,Success,Rention,Retention%
+1555,POL_10554,Comprehensive,2026-06-22,14303.12,Success,Rention,Retention%
+1556,POL_10555,Women Care,2026-06-28,3078.14,Success,Rention,Retention%
+1557,POL_10556,Women Care,2026-06-17,6667.67,Success,Rention,Retention%
+1558,POL_10557,Family Health Optima,2026-05-21,3148.14,Pending,Churn,Churn%
+1559,POL_10558,Child Care,2026-06-01,31986.74,Pending,Churn,Churn%
+1560,POL_10559,Family Health Optima,2026-06-05,1317.14,Success,Rention,Retention%
+1561,POL_10560,Family Health Optima,2026-06-25,7355.07,Success,Rention,Retention%
+1562,POL_10561,Family Health Optima,2026-06-22,8739.14,Pending,Churn,Churn%
+1563,POL_10562,Child Care,2026-06-13,1995.22,Success,Rention,Retention%
+1564,POL_10563,Family Health Optima,2026-05-15,7246.98,Pending,Churn,Churn%
+1565,POL_10564,Family Health Optima,2026-07-05,2241.01,Success,Rention,Retention%
+1566,POL_10565,Women Care,2026-05-31,1702.74,Success,Rention,Retention%
+1567,POL_10566,Family Health Optima,2026-06-20,5098.85,Pending,Churn,Churn%
+1568,POL_10567,Women Care,2026-06-08,5805.38,Pending,Churn,Churn%
+1569,POL_10568,Family Health Optima,2026-05-22,9242.32,Success,Rention,Retention%
+1570,POL_10569,Women Care,2026-06-16,36561.62,Success,Rention,Retention%
+1571,POL_10570,Child Care,2026-06-23,3009.03,Pending,Churn,Churn%
+1572,POL_10571,Comprehensive,2026-05-25,1775.56,Success,Rention,Retention%
+1573,POL_10572,Family Health Optima,2026-06-01,3802.91,Pending,Churn,Churn%
+1574,POL_10573,Child Care,2026-05-14,25296.0,Pending,Churn,Churn%
+1575,POL_10574,Family Health Optima,2026-05-18,10579.25,Pending,Churn,Churn%
+1576,POL_10575,Comprehensive,2026-06-05,9778.32,Success,Rention,Retention%
+1577,POL_10576,Family Health Optima,2026-06-14,1332.0,Pending,Churn,Churn%
+1578,POL_10577,Comprehensive,2026-05-28,46856.86,Pending,Churn,Churn%
+1579,POL_10578,Child Care,2026-05-12,7779.62,Success,Rention,Retention%
+1580,POL_10579,Women Care,2026-05-20,2565.19,Pending,Churn,Churn%
+1581,POL_10580,Family Health Optima,2026-07-01,10331.19,Success,Rention,Retention%
+1582,POL_10581,Child Care,2026-07-03,1311.65,Pending,Churn,Churn%
+1583,POL_10582,Comprehensive,2026-05-22,5085.02,Success,Rention,Retention%
+1584,POL_10583,Comprehensive,2026-05-20,14100.99,Success,Rention,Retention%
+1585,POL_10584,Family Health Optima,2026-06-29,994.26,Success,Rention,Retention%
+1586,POL_10585,Child Care,2026-06-06,3823.68,Pending,Churn,Churn%
+1587,POL_10586,Child Care,2026-06-24,3088.97,Pending,Churn,Churn%
+1588,POL_10587,Women Care,2026-05-19,35155.1,Success,Rention,Retention%
+1589,POL_10588,Women Care,2026-06-11,10908.51,Success,Rention,Retention%
+1590,POL_10589,Family Health Optima,2026-05-12,4781.46,Success,Rention,Retention%
+1591,POL_10590,Child Care,2026-06-18,9473.95,Success,Rention,Retention%
+1592,POL_10591,Family Health Optima,2026-06-06,6742.46,Success,Rention,Retention%
+1593,POL_10592,Women Care,2026-06-09,2053.18,Pending,Churn,Churn%
+1594,POL_10593,Women Care,2026-05-28,12287.28,Success,Rention,Retention%
+1595,POL_10594,Family Health Optima,2026-05-11,4567.33,Pending,Churn,Churn%
+1596,POL_10595,Comprehensive,2026-07-03,7059.19,Pending,Churn,Churn%
+1597,POL_10596,Comprehensive,2026-06-24,6112.25,Pending,Churn,Churn%
+1598,POL_10597,Women Care,2026-05-28,4475.88,Pending,Churn,Churn%
+1599,POL_10598,Child Care,2026-05-13,5953.2,Success,Rention,Retention%
+1600,POL_10599,Comprehensive,2026-07-05,26777.58,Pending,Churn,Churn%
+1601,POL_10600,Family Health Optima,2026-06-11,1306.43,Success,Rention,Retention%
+1602,POL_10601,Family Health Optima,2026-06-26,7339.31,Pending,Churn,Churn%
+1603,POL_10602,Child Care,2026-05-26,8856.43,Success,Rention,Retention%
+1604,POL_10603,Comprehensive,2026-06-04,12868.1,Success,Rention,Retention%
+1605,POL_10604,Family Health Optima,2026-06-02,13975.18,Success,Rention,Retention%
+1606,POL_10605,Child Care,2026-05-16,7426.85,Success,Rention,Retention%
+1607,POL_10606,Comprehensive,2026-06-27,2846.9,Success,Rention,Retention%
+1608,POL_10607,Comprehensive,2026-06-06,20543.02,Success,Rention,Retention%
+1609,POL_10608,Comprehensive,2026-06-01,3548.07,Pending,Churn,Churn%
+1610,POL_10609,Women Care,2026-05-28,31393.15,Success,Rention,Retention%
+1611,POL_10610,Women Care,2026-06-07,6838.15,Success,Rention,Retention%
+1612,POL_10611,Comprehensive,2026-06-21,5257.23,Success,Rention,Retention%
+1613,POL_10612,Comprehensive,2026-06-15,1766.16,Success,Rention,Retention%
+1614,POL_10613,Women Care,2026-05-30,5402.43,Success,Rention,Retention%
+1615,POL_10614,Comprehensive,2026-05-10,1504.06,Success,Rention,Retention%
+1616,POL_10615,Family Health Optima,2026-05-21,34375.88,Success,Rention,Retention%
+1617,POL_10616,Women Care,2026-05-26,9326.5,Success,Rention,Retention%
+1618,POL_10617,Child Care,2026-06-23,18645.24,Success,Rention,Retention%
+1619,POL_10618,Child Care,2026-06-09,27551.89,Success,Rention,Retention%
+1620,POL_10619,Comprehensive,2026-06-10,8570.91,Pending,Churn,Churn%
+1621,POL_10620,Child Care,2026-05-16,2927.48,Success,Rention,Retention%
+1622,POL_10621,Family Health Optima,2026-06-01,32145.8,Success,Rention,Retention%
+1623,POL_10622,Women Care,2026-07-04,7345.74,Success,Rention,Retention%
+1624,POL_10623,Women Care,2026-05-24,27694.27,Success,Rention,Retention%
+1625,POL_10624,Family Health Optima,2026-05-28,9703.69,Success,Rention,Retention%
+1626,POL_10625,Women Care,2026-06-09,2989.17,Success,Rention,Retention%
+1627,POL_10626,Family Health Optima,2026-05-10,5398.87,Success,Rention,Retention%
+1628,POL_10627,Women Care,2026-05-21,9061.37,Success,Rention,Retention%
+1629,POL_10628,Women Care,2026-06-29,9092.76,Success,Rention,Retention%
+1630,POL_10629,Women Care,2026-05-10,34386.77,Success,Rention,Retention%
+1631,POL_10630,Women Care,2026-06-23,8068.68,Pending,Churn,Churn%
+1632,POL_10631,Women Care,2026-06-11,1582.26,Success,Rention,Retention%
+1633,POL_10632,Comprehensive,2026-06-26,2693.34,Success,Rention,Retention%
+1634,POL_10633,Child Care,2026-05-11,5738.69,Success,Rention,Retention%
+1635,POL_10634,Family Health Optima,2026-05-14,7513.08,Success,Rention,Retention%
+1636,POL_10635,Family Health Optima,2026-06-09,11528.74,Pending,Churn,Churn%
+1637,POL_10636,Comprehensive,2026-05-16,2167.29,Pending,Churn,Churn%
+1638,POL_10637,Women Care,2026-05-28,19932.04,Success,Rention,Retention%
+1639,POL_10638,Child Care,2026-05-15,16119.46,Pending,Churn,Churn%
+1640,POL_10639,Women Care,2026-05-12,10359.33,Pending,Churn,Churn%
+1641,POL_10640,Child Care,2026-06-03,5332.99,Success,Rention,Retention%
+1642,POL_10641,Comprehensive,2026-06-18,26229.97,Pending,Churn,Churn%
+1643,POL_10642,Women Care,2026-05-19,10515.09,Success,Rention,Retention%
+1644,POL_10643,Comprehensive,2026-05-31,3573.3,Success,Rention,Retention%
+1645,POL_10644,Child Care,2026-06-22,15044.92,Success,Rention,Retention%
+1646,POL_10645,Women Care,2026-07-02,8112.91,Success,Rention,Retention%
+1647,POL_10646,Family Health Optima,2026-05-16,4898.86,Pending,Churn,Churn%
+1648,POL_10647,Comprehensive,2026-07-02,6601.82,Success,Rention,Retention%
+1649,POL_10648,Women Care,2026-05-26,1369.78,Pending,Churn,Churn%
+1650,POL_10649,Family Health Optima,2026-05-30,9944.76,Pending,Churn,Churn%
+1651,POL_10650,Child Care,2026-06-18,7840.71,Success,Rention,Retention%
+1652,POL_10651,Child Care,2026-05-18,8463.77,Success,Rention,Retention%
+1653,POL_10652,Women Care,2026-06-06,6624.5,Success,Rention,Retention%
+1654,POL_10653,Child Care,2026-06-10,6822.02,Success,Rention,Retention%
+1655,POL_10654,Family Health Optima,2026-06-07,9795.62,Pending,Churn,Churn%
+1656,POL_10655,Comprehensive,2026-06-01,19733.94,Success,Rention,Retention%
+1657,POL_10656,Comprehensive,2026-06-05,2728.26,Pending,Churn,Churn%
+1658,POL_10657,Women Care,2026-06-01,3246.97,Pending,Churn,Churn%
+1659,POL_10658,Family Health Optima,2026-06-09,21113.81,Success,Rention,Retention%
+1660,POL_10659,Women Care,2026-06-30,11515.52,Success,Rention,Retention%
+1661,POL_10660,Child Care,2026-05-10,5148.5,Pending,Churn,Churn%
+1662,POL_10661,Child Care,2026-05-14,17753.95,Success,Rention,Retention%
+1663,POL_10662,Women Care,2026-06-28,4118.84,Pending,Churn,Churn%
+1664,POL_10663,Child Care,2026-05-20,909.12,Success,Rention,Retention%
+1665,POL_10664,Family Health Optima,2026-06-17,21630.33,Pending,Churn,Churn%
+1666,POL_10665,Women Care,2026-06-12,34048.34,Pending,Churn,Churn%
+1667,POL_10666,Women Care,2026-06-25,6962.77,Success,Rention,Retention%
+1668,POL_10667,Women Care,2026-06-21,32002.66,Pending,Churn,Churn%
+1669,POL_10668,Family Health Optima,2026-07-02,36568.17,Pending,Churn,Churn%
+1670,POL_10669,Family Health Optima,2026-06-22,5200.19,Success,Rention,Retention%
+1671,POL_10670,Women Care,2026-06-24,3870.06,Success,Rention,Retention%
+1672,POL_10671,Comprehensive,2026-06-02,3154.88,Success,Rention,Retention%
+1673,POL_10672,Family Health Optima,2026-05-14,3519.78,Success,Rention,Retention%
+1674,POL_10673,Comprehensive,2026-07-04,4948.26,Success,Rention,Retention%
+1675,POL_10674,Family Health Optima,2026-06-14,36960.79,Success,Rention,Retention%
+1676,POL_10675,Comprehensive,2026-06-17,5778.23,Success,Rention,Retention%
+1677,POL_10676,Child Care,2026-06-22,9988.64,Success,Rention,Retention%
+1678,POL_10677,Women Care,2026-05-19,36904.42,Success,Rention,Retention%
+1679,POL_10678,Comprehensive,2026-05-22,9890.84,Success,Rention,Retention%
+1680,POL_10679,Comprehensive,2026-05-18,8125.42,Pending,Churn,Churn%
+1681,POL_10680,Family Health Optima,2026-05-09,2068.22,Success,Rention,Retention%
+1682,POL_10681,Comprehensive,2026-06-20,993.81,Pending,Churn,Churn%
+1683,POL_10682,Comprehensive,2026-07-01,32083.11,Success,Rention,Retention%
+1684,POL_10683,Family Health Optima,2026-06-20,7890.78,Success,Rention,Retention%
+1685,POL_10684,Family Health Optima,2026-05-20,3812.82,Pending,Churn,Churn%
+1686,POL_10685,Comprehensive,2026-07-03,8995.5,Success,Rention,Retention%
+1687,POL_10686,Child Care,2026-06-24,6183.72,Success,Rention,Retention%
+1688,POL_10687,Family Health Optima,2026-07-06,4351.0,Success,Rention,Retention%
+1689,POL_10688,Women Care,2026-05-22,20989.26,Success,Rention,Retention%
+1690,POL_10689,Comprehensive,2026-06-14,27845.18,Success,Rention,Retention%
+1691,POL_10690,Child Care,2026-05-09,1683.29,Success,Rention,Retention%
+1692,POL_10691,Family Health Optima,2026-06-14,6454.55,Success,Rention,Retention%
+1693,POL_10692,Family Health Optima,2026-06-10,1889.78,Success,Rention,Retention%
+1694,POL_10693,Women Care,2026-05-20,1882.38,Success,Rention,Retention%
+1695,POL_10694,Comprehensive,2026-06-27,2862.4,Success,Rention,Retention%
+1696,POL_10695,Family Health Optima,2026-06-11,2561.0,Success,Rention,Retention%
+1697,POL_10696,Child Care,2026-07-04,23349.18,Success,Rention,Retention%
+1698,POL_10697,Child Care,2026-06-24,32218.92,Success,Rention,Retention%
+1699,POL_10698,Women Care,2026-06-21,8781.0,Success,Rention,Retention%
+1700,POL_10699,Comprehensive,2026-06-22,2800.49,Pending,Churn,Churn%
+1701,POL_10700,Comprehensive,2026-06-19,1616.44,Success,Rention,Retention%
+1702,POL_10701,Family Health Optima,2026-06-27,7633.36,Success,Rention,Retention%
+1703,POL_10702,Family Health Optima,2026-05-16,7603.45,Success,Rention,Retention%
+1704,POL_10703,Child Care,2026-05-13,4308.27,Success,Rention,Retention%
+1705,POL_10704,Family Health Optima,2026-06-11,7144.74,Pending,Churn,Churn%
+1706,POL_10705,Child Care,2026-06-03,4300.03,Success,Rention,Retention%
+1707,POL_10706,Women Care,2026-06-27,35520.33,Success,Rention,Retention%
+1708,POL_10707,Child Care,2026-05-16,8211.55,Success,Rention,Retention%
+1709,POL_10708,Child Care,2026-05-20,4890.58,Pending,Churn,Churn%
+1710,POL_10709,Comprehensive,2026-06-23,4375.21,Success,Rention,Retention%
+1711,POL_10710,Child Care,2026-05-27,1382.03,Success,Rention,Retention%
+1712,POL_10711,Comprehensive,2026-06-30,8085.78,Success,Rention,Retention%
+1713,POL_10712,Women Care,2026-06-03,6648.67,Success,Rention,Retention%
+1714,POL_10713,Comprehensive,2026-06-27,1587.56,Success,Rention,Retention%
+1715,POL_10714,Family Health Optima,2026-05-17,1966.0,Success,Rention,Retention%
+1716,POL_10715,Family Health Optima,2026-06-25,9717.58,Pending,Churn,Churn%
+1717,POL_10716,Child Care,2026-05-21,7653.59,Pending,Churn,Churn%
+1718,POL_10717,Women Care,2026-05-12,10490.08,Success,Rention,Retention%
+1719,POL_10718,Comprehensive,2026-06-23,8678.5,Success,Rention,Retention%
+1720,POL_10719,Women Care,2026-05-14,9785.29,Pending,Churn,Churn%
+1721,POL_10720,Child Care,2026-06-18,7900.54,Success,Rention,Retention%
+1722,POL_10721,Family Health Optima,2026-05-19,9011.63,Success,Rention,Retention%
+1723,POL_10722,Child Care,2026-07-01,10383.49,Success,Rention,Retention%
+1724,POL_10723,Family Health Optima,2026-05-23,1010.6,Success,Rention,Retention%
+1725,POL_10724,Child Care,2026-05-15,8084.9,Success,Rention,Retention%
+1726,POL_10725,Family Health Optima,2026-06-06,32745.94,Success,Rention,Retention%
+1727,POL_10726,Family Health Optima,2026-06-09,5331.75,Success,Rention,Retention%
+1728,POL_10727,Women Care,2026-06-15,13326.18,Success,Rention,Retention%
+1729,POL_10728,Women Care,2026-05-16,1774.08,Success,Rention,Retention%
+1730,POL_10729,Women Care,2026-05-10,5425.08,Success,Rention,Retention%
+1731,POL_10730,Women Care,2026-05-29,15489.6,Pending,Churn,Churn%
+1732,POL_10731,Women Care,2026-05-10,8052.33,Pending,Churn,Churn%
+1733,POL_10732,Women Care,2026-06-06,3387.94,Success,Rention,Retention%
+1734,POL_10733,Women Care,2026-05-13,7557.8,Success,Rention,Retention%
+1735,POL_10734,Comprehensive,2026-05-23,11205.78,Success,Rention,Retention%
+1736,POL_10735,Comprehensive,2026-06-20,7667.11,Success,Rention,Retention%
+1737,POL_10736,Women Care,2026-06-23,32335.22,Pending,Churn,Churn%
+1738,POL_10737,Family Health Optima,2026-06-20,2787.46,Pending,Churn,Churn%
+1739,POL_10738,Child Care,2026-06-20,28951.28,Pending,Churn,Churn%
+1740,POL_10739,Comprehensive,2026-06-30,35668.37,Pending,Churn,Churn%
+1741,POL_10740,Child Care,2026-06-13,6883.58,Success,Rention,Retention%
+1742,POL_10741,Family Health Optima,2026-05-12,14597.2,Success,Rention,Retention%
+1743,POL_10742,Women Care,2026-05-27,34603.54,Success,Rention,Retention%
+1744,POL_10743,Comprehensive,2026-05-12,3006.27,Success,Rention,Retention%
+1745,POL_10744,Child Care,2026-06-23,7061.77,Pending,Churn,Churn%
+1746,POL_10745,Child Care,2026-06-05,7928.29,Success,Rention,Retention%
+1747,POL_10746,Comprehensive,2026-06-19,9390.28,Pending,Churn,Churn%
+1748,POL_10747,Family Health Optima,2026-05-10,1301.82,Pending,Churn,Churn%
+1749,POL_10748,Family Health Optima,2026-06-03,6845.53,Success,Rention,Retention%
+1750,POL_10749,Child Care,2026-05-15,2450.01,Pending,Churn,Churn%
+1751,POL_10750,Family Health Optima,2026-06-16,15631.39,Success,Rention,Retention%
+1752,POL_10751,Family Health Optima,2026-07-03,1525.09,Success,Rention,Retention%
+1753,POL_10752,Comprehensive,2026-06-19,11368.43,Pending,Churn,Churn%
+1754,POL_10753,Women Care,2026-05-12,9467.02,Pending,Churn,Churn%
+1755,POL_10754,Comprehensive,2026-05-09,13702.74,Success,Rention,Retention%
+1756,POL_10755,Child Care,2026-06-19,4025.02,Pending,Churn,Churn%
+1757,POL_10756,Women Care,2026-07-02,6388.66,Pending,Churn,Churn%
+1758,POL_10757,Comprehensive,2026-05-30,18452.34,Success,Rention,Retention%
+1759,POL_10758,Child Care,2026-05-17,4342.98,Success,Rention,Retention%
+1760,POL_10759,Family Health Optima,2026-07-05,29046.24,Pending,Churn,Churn%
+1761,POL_10760,Comprehensive,2026-05-16,3140.61,Success,Rention,Retention%
+1762,POL_10761,Child Care,2026-06-03,1933.57,Pending,Churn,Churn%
+1763,POL_10762,Comprehensive,2026-06-27,15232.7,Pending,Churn,Churn%
+1764,POL_10763,Women Care,2026-06-16,2456.65,Pending,Churn,Churn%
+1765,POL_10764,Comprehensive,2026-05-27,7276.06,Success,Rention,Retention%
+1766,POL_10765,Women Care,2026-07-02,9474.1,Success,Rention,Retention%
+1767,POL_10766,Child Care,2026-06-26,6450.21,Pending,Churn,Churn%
+1768,POL_10767,Child Care,2026-06-10,5640.51,Success,Rention,Retention%
+1769,POL_10768,Comprehensive,2026-05-30,11455.22,Success,Rention,Retention%
+1770,POL_10769,Comprehensive,2026-06-12,5546.59,Success,Rention,Retention%
+1771,POL_10770,Women Care,2026-05-19,22353.03,Success,Rention,Retention%
+1772,POL_10771,Family Health Optima,2026-05-21,8920.62,Success,Rention,Retention%
+1773,POL_10772,Women Care,2026-06-02,10237.77,Success,Rention,Retention%
+1774,POL_10773,Family Health Optima,2026-05-15,14198.81,Success,Rention,Retention%
+1775,POL_10774,Women Care,2026-06-19,5809.39,Success,Rention,Retention%
+1776,POL_10775,Family Health Optima,2026-06-18,8448.39,Success,Rention,Retention%
+1777,POL_10776,Comprehensive,2026-06-01,5589.36,Pending,Churn,Churn%
+1778,POL_10777,Women Care,2026-05-12,5958.72,Success,Rention,Retention%
+1779,POL_10778,Child Care,2026-06-09,4747.5,Pending,Churn,Churn%
+1780,POL_10779,Comprehensive,2026-06-13,7895.85,Success,Rention,Retention%
+1781,POL_10780,Child Care,2026-06-13,14607.38,Success,Rention,Retention%
+1782,POL_10781,Child Care,2026-06-10,917.44,Success,Rention,Retention%
+1783,POL_10782,Comprehensive,2026-06-16,7508.93,Success,Rention,Retention%
+1784,POL_10783,Comprehensive,2026-05-10,19616.21,Pending,Churn,Churn%
+1785,POL_10784,Comprehensive,2026-06-04,3480.41,Success,Rention,Retention%
+1786,POL_10785,Comprehensive,2026-06-15,5131.34,Success,Rention,Retention%
+1787,POL_10786,Comprehensive,2026-07-01,10192.94,Success,Rention,Retention%
+1788,POL_10787,Women Care,2026-05-11,1533.86,Success,Rention,Retention%
+1789,POL_10788,Comprehensive,2026-05-31,4167.66,Success,Rention,Retention%
+1790,POL_10789,Child Care,2026-05-25,10766.37,Pending,Churn,Churn%
+1791,POL_10790,Comprehensive,2026-06-07,4529.78,Success,Rention,Retention%
+1792,POL_10791,Women Care,2026-06-21,1001.93,Pending,Churn,Churn%
+1793,POL_10792,Family Health Optima,2026-05-21,2185.53,Success,Rention,Retention%
+1794,POL_10793,Child Care,2026-07-04,16956.66,Success,Rention,Retention%
+1795,POL_10794,Family Health Optima,2026-06-07,5767.59,Pending,Churn,Churn%
+1796,POL_10795,Family Health Optima,2026-05-20,14648.59,Success,Rention,Retention%
+1797,POL_10796,Comprehensive,2026-05-16,3412.94,Success,Rention,Retention%
+1798,POL_10797,Family Health Optima,2026-06-07,3775.62,Success,Rention,Retention%
+1799,POL_10798,Comprehensive,2026-06-28,9478.51,Success,Rention,Retention%
+1800,POL_10799,Comprehensive,2026-05-28,14323.62,Pending,Churn,Churn%
+1801,POL_10800,Family Health Optima,2026-05-09,5637.38,Success,Rention,Retention%
+1802,POL_10801,Women Care,2026-05-28,11451.08,Success,Rention,Retention%
+1803,POL_10802,Child Care,2026-05-16,1682.46,Pending,Churn,Churn%
+1804,POL_10803,Comprehensive,2026-06-30,31034.15,Success,Rention,Retention%
+1805,POL_10804,Women Care,2026-06-29,1452.7,Success,Rention,Retention%
+1806,POL_10805,Family Health Optima,2026-06-13,6185.49,Success,Rention,Retention%
+1807,POL_10806,Women Care,2026-06-22,22781.38,Success,Rention,Retention%
+1808,POL_10807,Child Care,2026-05-10,1709.5,Success,Rention,Retention%
+1809,POL_10808,Child Care,2026-05-09,905.21,Pending,Churn,Churn%
+1810,POL_10809,Women Care,2026-05-31,2647.83,Success,Rention,Retention%
+1811,POL_10810,Women Care,2026-07-02,7531.94,Pending,Churn,Churn%
+1812,POL_10811,Child Care,2026-06-20,5088.79,Pending,Churn,Churn%
+1813,POL_10812,Comprehensive,2026-06-14,8810.97,Success,Rention,Retention%
+1814,POL_10813,Family Health Optima,2026-06-24,3543.11,Success,Rention,Retention%
+1815,POL_10814,Family Health Optima,2026-05-26,4467.45,Success,Rention,Retention%
+1816,POL_10815,Women Care,2026-06-01,1502.34,Pending,Churn,Churn%
+1817,POL_10816,Child Care,2026-05-14,2274.21,Pending,Churn,Churn%
+1818,POL_10817,Women Care,2026-06-29,2878.08,Success,Rention,Retention%
+1819,POL_10818,Child Care,2026-05-29,18721.05,Success,Rention,Retention%
+1820,POL_10819,Child Care,2026-05-10,44108.32,Success,Rention,Retention%
+1821,POL_10820,Women Care,2026-05-28,5956.74,Success,Rention,Retention%
+1822,POL_10821,Women Care,2026-06-02,2144.76,Success,Rention,Retention%
+1823,POL_10822,Family Health Optima,2026-07-01,1297.5,Pending,Churn,Churn%
+1824,POL_10823,Family Health Optima,2026-05-22,6575.36,Success,Rention,Retention%
+1825,POL_10824,Women Care,2026-07-01,10018.88,Success,Rention,Retention%
+1826,POL_10825,Child Care,2026-05-11,12855.26,Success,Rention,Retention%
+1827,POL_10826,Family Health Optima,2026-06-02,35051.1,Success,Rention,Retention%
+1828,POL_10827,Family Health Optima,2026-05-16,16618.9,Success,Rention,Retention%
+1829,POL_10828,Child Care,2026-06-02,31677.93,Pending,Churn,Churn%
+1830,POL_10829,Comprehensive,2026-05-20,4893.99,Success,Rention,Retention%
+1831,POL_10830,Family Health Optima,2026-06-05,10715.01,Pending,Churn,Churn%
+1832,POL_10831,Women Care,2026-05-28,4213.1,Success,Rention,Retention%
+1833,POL_10832,Comprehensive,2026-05-14,3775.79,Success,Rention,Retention%
+1834,POL_10833,Comprehensive,2026-05-10,9395.14,Success,Rention,Retention%
+1835,POL_10834,Child Care,2026-06-08,4301.97,Success,Rention,Retention%
+1836,POL_10835,Women Care,2026-06-11,5728.26,Success,Rention,Retention%
+1837,POL_10836,Women Care,2026-05-19,3521.78,Success,Rention,Retention%
+1838,POL_10837,Child Care,2026-07-03,9326.18,Pending,Churn,Churn%
+1839,POL_10838,Family Health Optima,2026-05-27,5121.83,Success,Rention,Retention%
+1840,POL_10839,Comprehensive,2026-05-17,10097.74,Success,Rention,Retention%
+1841,POL_10840,Child Care,2026-06-28,1221.05,Success,Rention,Retention%
+1842,POL_10841,Comprehensive,2026-06-10,9859.15,Success,Rention,Retention%
+1843,POL_10842,Family Health Optima,2026-06-17,28816.81,Success,Rention,Retention%
+1844,POL_10843,Family Health Optima,2026-06-29,22027.13,Success,Rention,Retention%
+1845,POL_10844,Child Care,2026-06-15,8057.65,Pending,Churn,Churn%
+1846,POL_10845,Comprehensive,2026-06-14,36007.17,Success,Rention,Retention%
+1847,POL_10846,Child Care,2026-06-12,7898.16,Success,Rention,Retention%
+1848,POL_10847,Women Care,2026-05-30,1950.45,Success,Rention,Retention%
+1849,POL_10848,Family Health Optima,2026-05-30,2379.3,Success,Rention,Retention%
+1850,POL_10849,Women Care,2026-05-10,8481.3,Success,Rention,Retention%
+1851,POL_10850,Women Care,2026-07-01,29816.12,Success,Rention,Retention%
+1852,POL_10851,Child Care,2026-05-18,11295.7,Success,Rention,Retention%
+1853,POL_10852,Family Health Optima,2026-06-16,33689.33,Success,Rention,Retention%
+1854,POL_10853,Women Care,2026-05-29,9383.74,Success,Rention,Retention%
+1855,POL_10854,Family Health Optima,2026-05-29,19285.53,Pending,Churn,Churn%
+1856,POL_10855,Comprehensive,2026-06-22,1500.27,Success,Rention,Retention%
+1857,POL_10856,Family Health Optima,2026-06-12,32779.33,Success,Rention,Retention%
+1858,POL_10857,Comprehensive,2026-05-29,12654.39,Success,Rention,Retention%
+1859,POL_10858,Women Care,2026-06-30,14574.53,Success,Rention,Retention%
+1860,POL_10859,Comprehensive,2026-06-11,8772.36,Success,Rention,Retention%
+1861,POL_10860,Comprehensive,2026-05-26,36890.81,Pending,Churn,Churn%
+1862,POL_10861,Comprehensive,2026-06-06,5720.87,Pending,Churn,Churn%
+1863,POL_10862,Family Health Optima,2026-06-19,9815.75,Pending,Churn,Churn%
+1864,POL_10863,Family Health Optima,2026-06-26,4366.44,Success,Rention,Retention%
+1865,POL_10864,Family Health Optima,2026-07-03,7025.98,Pending,Churn,Churn%
+1866,POL_10865,Comprehensive,2026-05-10,5280.29,Success,Rention,Retention%
+1867,POL_10866,Women Care,2026-06-10,913.16,Pending,Churn,Churn%
+1868,POL_10867,Family Health Optima,2026-06-17,9260.9,Pending,Churn,Churn%
+1869,POL_10868,Women Care,2026-07-02,10503.68,Success,Rention,Retention%
+1870,POL_10869,Comprehensive,2026-05-30,3513.32,Success,Rention,Retention%
+1871,POL_10870,Comprehensive,2026-05-25,6766.26,Success,Rention,Retention%
+1872,POL_10871,Child Care,2026-06-22,2713.9,Success,Rention,Retention%
+1873,POL_10872,Family Health Optima,2026-06-21,4773.51,Success,Rention,Retention%
+1874,POL_10873,Family Health Optima,2026-05-16,5479.22,Success,Rention,Retention%
+1875,POL_10874,Child Care,2026-05-31,7112.91,Success,Rention,Retention%
+1876,POL_10875,Comprehensive,2026-06-28,2152.09,Success,Rention,Retention%
+1877,POL_10876,Family Health Optima,2026-05-25,20912.29,Success,Rention,Retention%
+1878,POL_10877,Women Care,2026-06-17,5323.03,Success,Rention,Retention%
+1879,POL_10878,Child Care,2026-06-13,5025.79,Pending,Churn,Churn%
+1880,POL_10879,Child Care,2026-05-27,5049.56,Pending,Churn,Churn%
+1881,POL_10880,Child Care,2026-06-28,2754.45,Success,Rention,Retention%
+1882,POL_10881,Women Care,2026-05-13,2231.25,Pending,Churn,Churn%
+1883,POL_10882,Comprehensive,2026-05-16,2068.68,Success,Rention,Retention%
+1884,POL_10883,Comprehensive,2026-06-24,37004.09,Success,Rention,Retention%
+1885,POL_10884,Child Care,2026-05-25,3902.38,Pending,Churn,Churn%
+1886,POL_10885,Family Health Optima,2026-06-17,15775.75,Pending,Churn,Churn%
+1887,POL_10886,Women Care,2026-05-23,21774.75,Success,Rention,Retention%
+1888,POL_10887,Women Care,2026-06-13,4217.74,Success,Rention,Retention%
+1889,POL_10888,Family Health Optima,2026-06-18,1346.08,Pending,Churn,Churn%
+1890,POL_10889,Women Care,2026-07-02,9556.1,Pending,Churn,Churn%
+1891,POL_10890,Family Health Optima,2026-05-18,23464.78,Success,Rention,Retention%
+1892,POL_10891,Comprehensive,2026-06-04,5795.05,Success,Rention,Retention%
+1893,POL_10892,Family Health Optima,2026-05-21,8338.34,Pending,Churn,Churn%
+1894,POL_10893,Comprehensive,2026-05-24,35362.12,Success,Rention,Retention%
+1895,POL_10894,Child Care,2026-06-11,10844.0,Success,Rention,Retention%
+1896,POL_10895,Comprehensive,2026-05-25,10451.1,Success,Rention,Retention%
+1897,POL_10896,Family Health Optima,2026-05-17,15838.44,Success,Rention,Retention%
+1898,POL_10897,Comprehensive,2026-05-22,1777.25,Success,Rention,Retention%
+1899,POL_10898,Women Care,2026-06-27,1307.66,Success,Rention,Retention%
+1900,POL_10899,Family Health Optima,2026-05-28,1693.87,Success,Rention,Retention%
+1901,POL_10900,Women Care,2026-06-28,6951.09,Success,Rention,Retention%
+1902,POL_10901,Child Care,2026-05-29,38938.85,Success,Rention,Retention%
+1903,POL_10902,Child Care,2026-06-07,3729.03,Pending,Churn,Churn%
+1904,POL_10903,Family Health Optima,2026-05-20,6500.62,Success,Rention,Retention%
+1905,POL_10904,Family Health Optima,2026-05-29,10115.67,Success,Rention,Retention%
+1906,POL_10905,Women Care,2026-05-16,3651.35,Pending,Churn,Churn%
+1907,POL_10906,Child Care,2026-05-15,3877.54,Success,Rention,Retention%
+1908,POL_10907,Comprehensive,2026-05-19,6106.98,Success,Rention,Retention%
+1909,POL_10908,Family Health Optima,2026-06-20,12136.06,Pending,Churn,Churn%
+1910,POL_10909,Family Health Optima,2026-06-06,13997.05,Success,Rention,Retention%
+1911,POL_10910,Family Health Optima,2026-06-06,2111.23,Pending,Churn,Churn%
+1912,POL_10911,Women Care,2026-06-04,26986.15,Success,Rention,Retention%
+1913,POL_10912,Child Care,2026-06-28,11506.17,Pending,Churn,Churn%
+1914,POL_10913,Women Care,2026-05-21,6101.59,Success,Rention,Retention%
+1915,POL_10914,Comprehensive,2026-06-10,4206.01,Success,Rention,Retention%
+1916,POL_10915,Child Care,2026-07-01,1978.66,Success,Rention,Retention%
+1917,POL_10916,Child Care,2026-06-07,17419.46,Success,Rention,Retention%
+1918,POL_10917,Comprehensive,2026-06-02,28055.5,Success,Rention,Retention%
+1919,POL_10918,Women Care,2026-05-16,10433.54,Success,Rention,Retention%
+1920,POL_10919,Family Health Optima,2026-05-16,4196.18,Pending,Churn,Churn%
+1921,POL_10920,Family Health Optima,2026-05-11,10760.9,Success,Rention,Retention%
+1922,POL_10921,Comprehensive,2026-06-12,10770.02,Pending,Churn,Churn%
+1923,POL_10922,Child Care,2026-06-11,4390.61,Success,Rention,Retention%
+1924,POL_10923,Comprehensive,2026-05-29,3456.33,Pending,Churn,Churn%
+1925,POL_10924,Child Care,2026-06-04,5000.35,Success,Rention,Retention%
+1926,POL_10925,Family Health Optima,2026-06-25,20266.66,Success,Rention,Retention%
+1927,POL_10926,Women Care,2026-06-13,2330.86,Pending,Churn,Churn%
+1928,POL_10927,Women Care,2026-07-05,9625.86,Pending,Churn,Churn%
+1929,POL_10928,Women Care,2026-05-22,10776.64,Pending,Churn,Churn%
+1930,POL_10929,Family Health Optima,2026-06-30,5031.8,Success,Rention,Retention%
+1931,POL_10930,Child Care,2026-05-24,2341.65,Pending,Churn,Churn%
+1932,POL_10931,Comprehensive,2026-05-14,4990.64,Success,Rention,Retention%
+1933,POL_10932,Comprehensive,2026-07-05,8077.58,Success,Rention,Retention%
+1934,POL_10933,Comprehensive,2026-05-12,5878.51,Pending,Churn,Churn%
+1935,POL_10934,Child Care,2026-07-01,3738.71,Success,Rention,Retention%
+1936,POL_10935,Family Health Optima,2026-06-15,9787.06,Success,Rention,Retention%
+1937,POL_10936,Family Health Optima,2026-06-16,25686.93,Success,Rention,Retention%
+1938,POL_10937,Comprehensive,2026-06-23,7172.64,Success,Rention,Retention%
+1939,POL_10938,Comprehensive,2026-06-22,1843.2,Success,Rention,Retention%
+1940,POL_10939,Comprehensive,2026-05-15,7590.11,Success,Rention,Retention%
+1941,POL_10940,Comprehensive,2026-05-11,897.5,Success,Rention,Retention%
+1942,POL_10941,Child Care,2026-07-05,7639.66,Pending,Churn,Churn%
+1943,POL_10942,Women Care,2026-07-03,1773.98,Success,Rention,Retention%
+1944,POL_10943,Women Care,2026-06-07,1302.78,Success,Rention,Retention%
+1945,POL_10944,Family Health Optima,2026-05-27,10386.3,Success,Rention,Retention%
+1946,POL_10945,Women Care,2026-05-27,9339.3,Success,Rention,Retention%
+1947,POL_10946,Women Care,2026-05-20,5728.07,Pending,Churn,Churn%
+1948,POL_10947,Child Care,2026-06-30,31237.83,Pending,Churn,Churn%
+1949,POL_10948,Comprehensive,2026-05-27,5087.02,Success,Rention,Retention%
+1950,POL_10949,Child Care,2026-06-07,15946.77,Pending,Churn,Churn%
+1951,POL_10950,Women Care,2026-06-10,9227.9,Success,Rention,Retention%
+1952,POL_10951,Child Care,2026-06-26,37970.31,Pending,Churn,Churn%
+1953,POL_10952,Child Care,2026-06-24,3621.74,Pending,Churn,Churn%
+1954,POL_10953,Family Health Optima,2026-07-01,31198.84,Success,Rention,Retention%
+1955,POL_10954,Comprehensive,2026-05-14,16007.7,Success,Rention,Retention%
+1956,POL_10955,Child Care,2026-06-24,3100.58,Success,Rention,Retention%
+1957,POL_10956,Women Care,2026-06-24,33599.62,Pending,Churn,Churn%
+1958,POL_10957,Family Health Optima,2026-06-16,10087.91,Pending,Churn,Churn%
+1959,POL_10958,Family Health Optima,2026-05-13,32827.38,Success,Rention,Retention%
+1960,POL_10959,Women Care,2026-05-18,22775.14,Success,Rention,Retention%
+1961,POL_10960,Family Health Optima,2026-06-20,2184.09,Success,Rention,Retention%
+1962,POL_10961,Family Health Optima,2026-07-01,2682.62,Success,Rention,Retention%
+1963,POL_10962,Family Health Optima,2026-07-06,11579.74,Pending,Churn,Churn%
+1964,POL_10963,Women Care,2026-05-27,7600.46,Pending,Churn,Churn%
+1965,POL_10964,Child Care,2026-06-03,21173.68,Success,Rention,Retention%
+1966,POL_10965,Comprehensive,2026-06-14,3797.07,Pending,Churn,Churn%
+1967,POL_10966,Comprehensive,2026-05-18,19173.9,Success,Rention,Retention%
+1968,POL_10967,Women Care,2026-05-14,6014.42,Success,Rention,Retention%
+1969,POL_10968,Child Care,2026-06-16,2623.9,Success,Rention,Retention%
+1970,POL_10969,Comprehensive,2026-05-09,6877.46,Pending,Churn,Churn%
+1971,POL_10970,Family Health Optima,2026-05-14,8562.11,Success,Rention,Retention%
+1972,POL_10971,Comprehensive,2026-06-21,3993.9,Success,Rention,Retention%
+1973,POL_10972,Comprehensive,2026-05-28,2022.26,Success,Rention,Retention%
+1974,POL_10973,Women Care,2026-05-29,1407.47,Success,Rention,Retention%
+1975,POL_10974,Women Care,2026-06-19,1858.1,Success,Rention,Retention%
+1976,POL_10975,Child Care,2026-05-15,12911.01,Success,Rention,Retention%
+1977,POL_10976,Comprehensive,2026-05-22,6243.33,Pending,Churn,Churn%
+1978,POL_10977,Women Care,2026-05-24,2322.33,Success,Rention,Retention%
+1979,POL_10978,Family Health Optima,2026-06-02,7763.74,Success,Rention,Retention%
+1980,POL_10979,Family Health Optima,2026-05-17,3911.23,Pending,Churn,Churn%
+1981,POL_10980,Comprehensive,2026-06-20,20413.69,Success,Rention,Retention%
+1982,POL_10981,Family Health Optima,2026-06-20,3600.27,Success,Rention,Retention%
+1983,POL_10982,Family Health Optima,2026-06-27,15359.95,Pending,Churn,Churn%
+1984,POL_10983,Child Care,2026-05-14,13437.13,Success,Rention,Retention%
+1985,POL_10984,Comprehensive,2026-06-09,3932.05,Success,Rention,Retention%
+1986,POL_10985,Child Care,2026-06-01,6099.7,Pending,Churn,Churn%
+1987,POL_10986,Women Care,2026-05-29,6728.04,Pending,Churn,Churn%
+1988,POL_10987,Comprehensive,2026-07-03,22672.15,Success,Rention,Retention%
+1989,POL_10988,Women Care,2026-06-14,3615.06,Pending,Churn,Churn%
+1990,POL_10989,Child Care,2026-05-13,11657.51,Pending,Churn,Churn%
+1991,POL_10990,Comprehensive,2026-06-14,2703.13,Success,Rention,Retention%
+1992,POL_10991,Family Health Optima,2026-06-28,5715.89,Pending,Churn,Churn%
+1993,POL_10992,Family Health Optima,2026-05-20,8094.74,Success,Rention,Retention%
+1994,POL_10993,Women Care,2026-06-10,4387.58,Pending,Churn,Churn%
+1995,POL_10994,Family Health Optima,2026-06-19,13136.39,Pending,Churn,Churn%
+1996,POL_10995,Family Health Optima,2026-07-02,6389.18,Success,Rention,Retention%
+1997,POL_10996,Comprehensive,2026-06-11,5934.82,Pending,Churn,Churn%
+1998,POL_10997,Child Care,2026-06-18,11110.38,Pending,Churn,Churn%
+1999,POL_10998,Women Care,2026-05-25,5241.4,Success,Rention,Retention%
+2000,POL_10999,Women Care,2026-05-14,4214.26,Success,Rention,Retention%
+2001,POL_11000,Family Health Optima,2026-05-29,13889.42,Pending,Churn,Churn%
+2002,POL_11001,Family Health Optima,2026-06-25,27578.27,Success,Rention,Retention%
+2003,POL_11002,Comprehensive,2026-06-11,1578.36,Success,Rention,Retention%
+2004,POL_11003,Women Care,2026-06-16,16985.74,Success,Rention,Retention%
+2005,POL_11004,Comprehensive,2026-06-24,6902.03,Success,Rention,Retention%
+2006,POL_11005,Women Care,2026-07-06,3546.71,Pending,Churn,Churn%
+2007,POL_11006,Child Care,2026-06-28,3550.61,Success,Rention,Retention%
+2008,POL_11007,Child Care,2026-06-09,19932.18,Pending,Churn,Churn%
+2009,POL_11008,Child Care,2026-06-03,18593.18,Pending,Churn,Churn%
+2010,POL_11009,Women Care,2026-06-29,7966.18,Success,Rention,Retention%
+2011,POL_11010,Family Health Optima,2026-06-17,6615.23,Success,Rention,Retention%
+2012,POL_11011,Comprehensive,2026-06-29,15014.19,Success,Rention,Retention%
+2013,POL_11012,Comprehensive,2026-06-18,29264.22,Pending,Churn,Churn%
+2014,POL_11013,Family Health Optima,2026-06-03,7012.2,Success,Rention,Retention%
+2015,POL_11014,Comprehensive,2026-06-02,4306.83,Success,Rention,Retention%
+2016,POL_11015,Comprehensive,2026-05-16,9699.99,Success,Rention,Retention%
+2017,POL_11016,Child Care,2026-06-29,2167.39,Success,Rention,Retention%
+2018,POL_11017,Child Care,2026-06-29,3190.34,Pending,Churn,Churn%
+2019,POL_11018,Child Care,2026-06-27,9996.23,Pending,Churn,Churn%
+2020,POL_11019,Child Care,2026-06-28,20815.16,Success,Rention,Retention%
+2021,POL_11020,Comprehensive,2026-05-18,7038.87,Success,Rention,Retention%
+2022,POL_11021,Family Health Optima,2026-06-05,28476.47,Success,Rention,Retention%
+2023,POL_11022,Comprehensive,2026-05-29,33768.91,Pending,Churn,Churn%
+2024,POL_11023,Child Care,2026-06-24,1368.82,Pending,Churn,Churn%
+2025,POL_11024,Women Care,2026-06-17,6855.89,Success,Rention,Retention%
+2026,POL_11025,Women Care,2026-05-28,1616.14,Pending,Churn,Churn%
+2027,POL_11026,Comprehensive,2026-05-15,13160.71,Pending,Churn,Churn%
+2028,POL_11027,Child Care,2026-05-11,17276.3,Success,Rention,Retention%
+2029,POL_11028,Women Care,2026-06-17,7880.34,Success,Rention,Retention%
+2030,POL_11029,Child Care,2026-05-09,5502.38,Success,Rention,Retention%
+2031,POL_11030,Comprehensive,2026-06-14,17341.82,Success,Rention,Retention%
+2032,POL_11031,Family Health Optima,2026-06-20,35539.04,Success,Rention,Retention%
+2033,POL_11032,Women Care,2026-05-14,3310.02,Success,Rention,Retention%
+2034,POL_11033,Family Health Optima,2026-06-09,10998.3,Pending,Churn,Churn%
+2035,POL_11034,Child Care,2026-06-23,10360.06,Pending,Churn,Churn%
+2036,POL_11035,Child Care,2026-06-22,9675.58,Success,Rention,Retention%
+2037,POL_11036,Family Health Optima,2026-06-07,29987.56,Success,Rention,Retention%
+2038,POL_11037,Women Care,2026-06-05,31780.42,Pending,Churn,Churn%
+2039,POL_11038,Child Care,2026-07-06,1800.67,Success,Rention,Retention%
+2040,POL_11039,Family Health Optima,2026-05-13,17994.93,Success,Rention,Retention%
+2041,POL_11040,Family Health Optima,2026-05-12,16187.88,Pending,Churn,Churn%
+2042,POL_11041,Women Care,2026-06-03,1363.76,Success,Rention,Retention%
+2043,POL_11042,Family Health Optima,2026-06-12,26780.66,Success,Rention,Retention%
+2044,POL_11043,Comprehensive,2026-05-17,2529.16,Pending,Churn,Churn%
+2045,POL_11044,Child Care,2026-05-14,9115.26,Pending,Churn,Churn%
+2046,POL_11045,Child Care,2026-07-04,17504.66,Pending,Churn,Churn%
+2047,POL_11046,Comprehensive,2026-06-21,5860.04,Success,Rention,Retention%
+2048,POL_11047,Women Care,2026-06-01,35601.12,Pending,Churn,Churn%
+2049,POL_11048,Comprehensive,2026-05-20,2875.34,Success,Rention,Retention%
+2050,POL_11049,Family Health Optima,2026-06-25,31782.09,Success,Rention,Retention%
+2051,POL_11050,Women Care,2026-06-03,6418.51,Pending,Churn,Churn%
+2052,POL_11051,Comprehensive,2026-06-12,11515.65,Pending,Churn,Churn%
+2053,POL_11052,Child Care,2026-06-28,7430.42,Success,Rention,Retention%
+2054,POL_11053,Family Health Optima,2026-05-19,20247.59,Success,Rention,Retention%
+2055,POL_11054,Family Health Optima,2026-05-30,2682.78,Pending,Churn,Churn%
+2056,POL_11055,Women Care,2026-05-19,8475.6,Pending,Churn,Churn%
+2057,POL_11056,Family Health Optima,2026-06-12,6622.02,Success,Rention,Retention%
+2058,POL_11057,Women Care,2026-05-24,14343.44,Success,Rention,Retention%
+2059,POL_11058,Comprehensive,2026-06-17,1984.78,Success,Rention,Retention%
+2060,POL_11059,Women Care,2026-06-16,3570.18,Pending,Churn,Churn%
+2061,POL_11060,Comprehensive,2026-05-09,1585.26,Success,Rention,Retention%
+2062,POL_11061,Comprehensive,2026-05-11,9243.38,Pending,Churn,Churn%
+2063,POL_11062,Women Care,2026-06-24,39176.2,Success,Rention,Retention%
+2064,POL_11063,Child Care,2026-05-29,5238.56,Pending,Churn,Churn%
+2065,POL_11064,Women Care,2026-06-30,4567.1,Pending,Churn,Churn%
+2066,POL_11065,Comprehensive,2026-06-13,5636.4,Success,Rention,Retention%
+2067,POL_11066,Child Care,2026-05-17,7182.55,Success,Rention,Retention%
+2068,POL_11067,Women Care,2026-05-23,4605.93,Success,Rention,Retention%
+2069,POL_11068,Child Care,2026-05-14,11479.88,Success,Rention,Retention%
+2070,POL_11069,Child Care,2026-07-06,8743.08,Success,Rention,Retention%
+2071,POL_11070,Women Care,2026-06-23,31897.36,Success,Rention,Retention%
+2072,POL_11071,Comprehensive,2026-06-30,11179.57,Success,Rention,Retention%
+2073,POL_11072,Women Care,2026-05-27,1527.62,Pending,Churn,Churn%
+2074,POL_11073,Comprehensive,2026-07-06,9677.32,Success,Rention,Retention%
+2075,POL_11074,Comprehensive,2026-06-17,10563.43,Success,Rention,Retention%
+2076,POL_11075,Child Care,2026-06-15,3650.27,Success,Rention,Retention%
+2077,POL_11076,Child Care,2026-07-04,6841.08,Pending,Churn,Churn%
+2078,POL_11077,Women Care,2026-05-11,1681.81,Success,Rention,Retention%
+2079,POL_11078,Comprehensive,2026-06-05,27737.72,Pending,Churn,Churn%
+2080,POL_11079,Child Care,2026-05-22,12129.22,Success,Rention,Retention%
+2081,POL_11080,Family Health Optima,2026-07-02,9507.24,Success,Rention,Retention%
+2082,POL_11081,Comprehensive,2026-06-24,3563.52,Success,Rention,Retention%
+2083,POL_11082,Family Health Optima,2026-06-15,4684.72,Success,Rention,Retention%
+2084,POL_11083,Family Health Optima,2026-06-17,3261.2,Success,Rention,Retention%
+2085,POL_11084,Comprehensive,2026-06-10,12015.81,Success,Rention,Retention%
+2086,POL_11085,Child Care,2026-05-22,15218.61,Success,Rention,Retention%
+2087,POL_11086,Child Care,2026-06-18,8637.08,Pending,Churn,Churn%
+2088,POL_11087,Comprehensive,2026-06-18,9082.58,Success,Rention,Retention%
+2089,POL_11088,Comprehensive,2026-06-05,7799.13,Pending,Churn,Churn%
+2090,POL_11089,Women Care,2026-06-23,8461.67,Pending,Churn,Churn%
+2091,POL_11090,Comprehensive,2026-07-02,33340.86,Success,Rention,Retention%
+2092,POL_11091,Comprehensive,2026-06-26,9029.23,Success,Rention,Retention%
+2093,POL_11092,Child Care,2026-06-12,2873.18,Pending,Churn,Churn%
+2094,POL_11093,Family Health Optima,2026-06-27,27126.04,Success,Rention,Retention%
+2095,POL_11094,Comprehensive,2026-05-13,9039.47,Pending,Churn,Churn%
+2096,POL_11095,Comprehensive,2026-05-11,3648.95,Success,Rention,Retention%
+2097,POL_11096,Family Health Optima,2026-05-17,35712.96,Success,Rention,Retention%
+2098,POL_11097,Family Health Optima,2026-06-12,1339.7,Success,Rention,Retention%
+2099,POL_11098,Family Health Optima,2026-06-09,18436.46,Success,Rention,Retention%
+2100,POL_11099,Child Care,2026-05-31,2581.7,Success,Rention,Retention%
+2101,POL_11100,Comprehensive,2026-07-01,13421.04,Success,Rention,Retention%
+2102,POL_11101,Family Health Optima,2026-05-23,9002.74,Success,Rention,Retention%
+2103,POL_11102,Family Health Optima,2026-06-29,2777.13,Success,Rention,Retention%
+2104,POL_11103,Child Care,2026-05-29,9090.62,Success,Rention,Retention%
+2105,POL_11104,Family Health Optima,2026-07-04,16336.48,Success,Rention,Retention%
+2106,POL_11105,Child Care,2026-07-02,8271.14,Success,Rention,Retention%
+2107,POL_11106,Women Care,2026-05-12,7190.53,Pending,Churn,Churn%
+2108,POL_11107,Women Care,2026-05-11,8395.16,Success,Rention,Retention%
+2109,POL_11108,Women Care,2026-06-01,2323.27,Success,Rention,Retention%
+2110,POL_11109,Family Health Optima,2026-06-18,6884.29,Success,Rention,Retention%
+2111,POL_11110,Women Care,2026-06-15,9209.93,Pending,Churn,Churn%
+2112,POL_11111,Family Health Optima,2026-05-26,33559.39,Success,Rention,Retention%
+2113,POL_11112,Women Care,2026-05-14,19344.74,Pending,Churn,Churn%
+2114,POL_11113,Comprehensive,2026-05-27,4249.74,Success,Rention,Retention%
+2115,POL_11114,Family Health Optima,2026-07-04,1916.88,Success,Rention,Retention%
+2116,POL_11115,Comprehensive,2026-06-12,8645.99,Success,Rention,Retention%
+2117,POL_11116,Family Health Optima,2026-06-25,7377.92,Success,Rention,Retention%
+2118,POL_11117,Family Health Optima,2026-06-26,28899.66,Success,Rention,Retention%
+2119,POL_11118,Women Care,2026-06-26,30626.2,Success,Rention,Retention%
+2120,POL_11119,Child Care,2026-05-16,4554.74,Pending,Churn,Churn%
+2121,POL_11120,Women Care,2026-06-10,27333.02,Success,Rention,Retention%
+2122,POL_11121,Family Health Optima,2026-06-30,6677.73,Success,Rention,Retention%
+2123,POL_11122,Child Care,2026-06-19,37329.15,Success,Rention,Retention%
+2124,POL_11123,Family Health Optima,2026-06-18,15122.79,Pending,Churn,Churn%
+2125,POL_11124,Family Health Optima,2026-06-26,32723.36,Pending,Churn,Churn%
+2126,POL_11125,Child Care,2026-05-29,11403.69,Pending,Churn,Churn%
+2127,POL_11126,Family Health Optima,2026-07-02,8171.71,Success,Rention,Retention%
+2128,POL_11127,Women Care,2026-05-19,4669.22,Pending,Churn,Churn%
+2129,POL_11128,Child Care,2026-05-21,11486.69,Success,Rention,Retention%
+2130,POL_11129,Comprehensive,2026-05-09,1383.12,Success,Rention,Retention%
+2131,POL_11130,Comprehensive,2026-05-20,6865.84,Pending,Churn,Churn%
+2132,POL_11131,Family Health Optima,2026-06-30,2954.74,Success,Rention,Retention%
+2133,POL_11132,Family Health Optima,2026-06-25,16567.22,Pending,Churn,Churn%
+2134,POL_11133,Comprehensive,2026-06-16,7992.83,Pending,Churn,Churn%
+2135,POL_11134,Family Health Optima,2026-05-16,15738.67,Success,Rention,Retention%
+2136,POL_11135,Women Care,2026-05-31,8868.47,Success,Rention,Retention%
+2137,POL_11136,Family Health Optima,2026-05-31,6098.82,Success,Rention,Retention%
+2138,POL_11137,Women Care,2026-05-26,2541.03,Success,Rention,Retention%
+2139,POL_11138,Family Health Optima,2026-06-07,2963.48,Success,Rention,Retention%
+2140,POL_11139,Family Health Optima,2026-05-26,29518.98,Success,Rention,Retention%
+2141,POL_11140,Comprehensive,2026-06-05,7238.42,Pending,Churn,Churn%
+2142,POL_11141,Comprehensive,2026-06-10,6363.62,Success,Rention,Retention%
+2143,POL_11142,Family Health Optima,2026-05-23,21694.39,Pending,Churn,Churn%
+2144,POL_11143,Family Health Optima,2026-06-06,5070.46,Success,Rention,Retention%
+2145,POL_11144,Child Care,2026-06-28,7704.32,Success,Rention,Retention%
+2146,POL_11145,Women Care,2026-05-22,9031.29,Success,Rention,Retention%
+2147,POL_11146,Family Health Optima,2026-05-17,42072.66,Success,Rention,Retention%
+2148,POL_11147,Comprehensive,2026-05-11,1809.26,Success,Rention,Retention%
+2149,POL_11148,Women Care,2026-06-30,8633.57,Success,Rention,Retention%
+2150,POL_11149,Comprehensive,2026-05-11,4783.78,Pending,Churn,Churn%
+2151,POL_11150,Family Health Optima,2026-05-10,1762.99,Success,Rention,Retention%
+2152,POL_11151,Child Care,2026-05-20,9788.67,Success,Rention,Retention%
+2153,POL_11152,Family Health Optima,2026-07-02,32753.03,Success,Rention,Retention%
+2154,POL_11153,Family Health Optima,2026-06-14,4504.37,Pending,Churn,Churn%
+2155,POL_11154,Family Health Optima,2026-06-08,8812.14,Pending,Churn,Churn%
+2156,POL_11155,Women Care,2026-07-04,5782.58,Pending,Churn,Churn%
+2157,POL_11156,Child Care,2026-07-01,31778.2,Success,Rention,Retention%
+2158,POL_11157,Family Health Optima,2026-06-12,11540.86,Success,Rention,Retention%
+2159,POL_11158,Women Care,2026-06-30,1967.78,Pending,Churn,Churn%
+2160,POL_11159,Women Care,2026-06-21,3191.87,Success,Rention,Retention%
+2161,POL_11160,Comprehensive,2026-05-11,6181.8,Success,Rention,Retention%
+2162,POL_11161,Child Care,2026-06-18,4099.35,Success,Rention,Retention%
+2163,POL_11162,Comprehensive,2026-05-19,15170.54,Success,Rention,Retention%
+2164,POL_11163,Family Health Optima,2026-07-06,1760.66,Success,Rention,Retention%
+2165,POL_11164,Comprehensive,2026-06-10,5722.84,Success,Rention,Retention%
+2166,POL_11165,Comprehensive,2026-07-03,4182.39,Success,Rention,Retention%
+2167,POL_11166,Family Health Optima,2026-05-12,8786.0,Pending,Churn,Churn%
+2168,POL_11167,Child Care,2026-05-09,3623.58,Success,Rention,Retention%
+2169,POL_11168,Women Care,2026-06-06,3736.51,Success,Rention,Retention%
+2170,POL_11169,Child Care,2026-06-05,4889.88,Success,Rention,Retention%
+2171,POL_11170,Child Care,2026-06-08,13742.94,Success,Rention,Retention%
+2172,POL_11171,Family Health Optima,2026-06-26,17982.88,Success,Rention,Retention%
+2173,POL_11172,Comprehensive,2026-05-13,8874.9,Success,Rention,Retention%
+2174,POL_11173,Comprehensive,2026-06-29,5166.27,Pending,Churn,Churn%
+2175,POL_11174,Child Care,2026-05-09,3547.14,Success,Rention,Retention%
+2176,POL_11175,Women Care,2026-06-22,1723.49,Success,Rention,Retention%
+2177,POL_11176,Comprehensive,2026-07-03,19110.13,Success,Rention,Retention%
+2178,POL_11177,Family Health Optima,2026-05-19,5197.51,Success,Rention,Retention%
+2179,POL_11178,Women Care,2026-06-04,2319.59,Success,Rention,Retention%
+2180,POL_11179,Women Care,2026-06-04,15480.3,Success,Rention,Retention%
+2181,POL_11180,Child Care,2026-05-14,6120.62,Success,Rention,Retention%
+2182,POL_11181,Women Care,2026-06-30,2280.54,Success,Rention,Retention%
+2183,POL_11182,Family Health Optima,2026-07-05,2106.39,Success,Rention,Retention%
+2184,POL_11183,Child Care,2026-06-14,7557.9,Pending,Churn,Churn%
+2185,POL_11184,Women Care,2026-05-12,14662.59,Pending,Churn,Churn%
+2186,POL_11185,Family Health Optima,2026-06-26,6883.06,Success,Rention,Retention%
+2187,POL_11186,Women Care,2026-06-24,29972.27,Success,Rention,Retention%
+2188,POL_11187,Comprehensive,2026-06-22,11075.84,Success,Rention,Retention%
+2189,POL_11188,Family Health Optima,2026-05-12,17417.07,Success,Rention,Retention%
+2190,POL_11189,Family Health Optima,2026-06-26,10501.34,Success,Rention,Retention%
+2191,POL_11190,Family Health Optima,2026-05-30,4261.92,Pending,Churn,Churn%
+2192,POL_11191,Child Care,2026-06-28,10980.38,Success,Rention,Retention%
+2193,POL_11192,Family Health Optima,2026-06-09,10415.33,Success,Rention,Retention%
+2194,POL_11193,Family Health Optima,2026-06-26,6936.95,Success,Rention,Retention%
+2195,POL_11194,Family Health Optima,2026-06-21,3307.26,Pending,Churn,Churn%
+2196,POL_11195,Comprehensive,2026-06-16,15070.96,Success,Rention,Retention%
+2197,POL_11196,Child Care,2026-06-05,26646.04,Success,Rention,Retention%
+2198,POL_11197,Family Health Optima,2026-06-12,4559.87,Success,Rention,Retention%
+2199,POL_11198,Comprehensive,2026-05-19,5114.88,Success,Rention,Retention%
+2200,POL_11199,Child Care,2026-05-25,3947.77,Pending,Churn,Churn%
+2201,POL_11200,Women Care,2026-06-17,4959.0,Success,Rention,Retention%
+2202,POL_11201,Child Care,2026-07-05,6986.58,Success,Rention,Retention%
+2203,POL_11202,Comprehensive,2026-05-29,1644.26,Success,Rention,Retention%
+2204,POL_11203,Family Health Optima,2026-05-25,7971.25,Success,Rention,Retention%
+2205,POL_11204,Child Care,2026-05-27,14578.76,Pending,Churn,Churn%
+2206,POL_11205,Women Care,2026-06-30,4093.2,Pending,Churn,Churn%
+2207,POL_11206,Child Care,2026-06-22,29528.49,Pending,Churn,Churn%
+2208,POL_11207,Women Care,2026-05-29,30732.38,Pending,Churn,Churn%
+2209,POL_11208,Family Health Optima,2026-06-05,16237.49,Pending,Churn,Churn%
+2210,POL_11209,Family Health Optima,2026-05-28,9877.74,Pending,Churn,Churn%
+2211,POL_11210,Women Care,2026-05-20,4298.69,Success,Rention,Retention%
+2212,POL_11211,Women Care,2026-05-27,18850.42,Pending,Churn,Churn%
+2213,POL_11212,Comprehensive,2026-06-21,1361.97,Pending,Churn,Churn%
+2214,POL_11213,Women Care,2026-07-02,8645.47,Success,Rention,Retention%
+2215,POL_11214,Family Health Optima,2026-05-19,3164.86,Success,Rention,Retention%
+2216,POL_11215,Child Care,2026-05-31,10312.05,Success,Rention,Retention%
+2217,POL_11216,Child Care,2026-07-04,4332.53,Success,Rention,Retention%
+2218,POL_11217,Family Health Optima,2026-06-28,3246.5,Pending,Churn,Churn%
+2219,POL_11218,Comprehensive,2026-05-26,33329.28,Pending,Churn,Churn%
+2220,POL_11219,Comprehensive,2026-06-24,6029.73,Pending,Churn,Churn%
+2221,POL_11220,Comprehensive,2026-06-12,3774.56,Pending,Churn,Churn%
+2222,POL_11221,Comprehensive,2026-05-16,5274.81,Success,Rention,Retention%
+2223,POL_11222,Family Health Optima,2026-05-25,6754.14,Success,Rention,Retention%
+2224,POL_11223,Child Care,2026-05-16,20900.54,Success,Rention,Retention%
+2225,POL_11224,Child Care,2026-05-11,5486.78,Success,Rention,Retention%
+2226,POL_11225,Women Care,2026-06-24,3836.53,Success,Rention,Retention%
+2227,POL_11226,Comprehensive,2026-07-02,5312.43,Pending,Churn,Churn%
+2228,POL_11227,Family Health Optima,2026-05-30,5729.61,Success,Rention,Retention%
+2229,POL_11228,Women Care,2026-05-11,8475.38,Success,Rention,Retention%
+2230,POL_11229,Comprehensive,2026-05-29,9550.61,Pending,Churn,Churn%
+2231,POL_11230,Comprehensive,2026-06-18,48017.12,Pending,Churn,Churn%
+2232,POL_11231,Family Health Optima,2026-06-07,16133.87,Pending,Churn,Churn%
+2233,POL_11232,Child Care,2026-06-12,9983.77,Success,Rention,Retention%
+2234,POL_11233,Family Health Optima,2026-06-03,9076.42,Success,Rention,Retention%
+2235,POL_11234,Child Care,2026-06-07,6812.61,Success,Rention,Retention%
+2236,POL_11235,Family Health Optima,2026-06-13,2159.66,Success,Rention,Retention%
+2237,POL_11236,Family Health Optima,2026-05-23,11559.88,Success,Rention,Retention%
+2238,POL_11237,Family Health Optima,2026-05-16,9779.48,Pending,Churn,Churn%
+2239,POL_11238,Child Care,2026-05-17,5588.41,Pending,Churn,Churn%
+2240,POL_11239,Women Care,2026-06-12,2590.75,Success,Rention,Retention%
+2241,POL_11240,Family Health Optima,2026-05-31,37815.88,Pending,Churn,Churn%
+2242,POL_11241,Comprehensive,2026-05-22,39662.13,Success,Rention,Retention%
+2243,POL_11242,Women Care,2026-06-08,3437.02,Success,Rention,Retention%
+2244,POL_11243,Child Care,2026-05-16,2537.29,Success,Rention,Retention%
+2245,POL_11244,Family Health Optima,2026-05-21,908.75,Success,Rention,Retention%
+2246,POL_11245,Family Health Optima,2026-06-22,4492.3,Success,Rention,Retention%
+2247,POL_11246,Comprehensive,2026-06-15,7281.44,Success,Rention,Retention%
+2248,POL_11247,Child Care,2026-05-25,4847.34,Pending,Churn,Churn%
+2249,POL_11248,Women Care,2026-05-24,1307.17,Success,Rention,Retention%
+2250,POL_11249,Women Care,2026-05-10,30086.02,Success,Rention,Retention%
+2251,POL_11250,Child Care,2026-06-24,14918.74,Success,Rention,Retention%
+2252,POL_11251,Child Care,2026-06-16,993.26,Pending,Churn,Churn%
+2253,POL_11252,Comprehensive,2026-05-22,12986.28,Success,Rention,Retention%
+2254,POL_11253,Women Care,2026-06-04,12663.06,Success,Rention,Retention%
+2255,POL_11254,Child Care,2026-06-30,3532.13,Success,Rention,Retention%
+2256,POL_11255,Women Care,2026-06-18,5179.21,Pending,Churn,Churn%
+2257,POL_11256,Child Care,2026-05-29,9149.39,Success,Rention,Retention%
+2258,POL_11257,Family Health Optima,2026-07-04,9044.74,Success,Rention,Retention%
+2259,POL_11258,Child Care,2026-05-25,24050.86,Success,Rention,Retention%
+2260,POL_11259,Women Care,2026-05-18,8158.22,Pending,Churn,Churn%
+2261,POL_11260,Comprehensive,2026-07-01,3635.38,Success,Rention,Retention%
+2262,POL_11261,Women Care,2026-06-27,2621.73,Success,Rention,Retention%
+2263,POL_11262,Comprehensive,2026-06-23,5416.15,Success,Rention,Retention%
+2264,POL_11263,Women Care,2026-05-23,5870.2,Success,Rention,Retention%
+2265,POL_11264,Family Health Optima,2026-05-12,8296.73,Pending,Churn,Churn%
+2266,POL_11265,Women Care,2026-05-16,21541.21,Success,Rention,Retention%
+2267,POL_11266,Women Care,2026-06-08,8563.58,Pending,Churn,Churn%
+2268,POL_11267,Women Care,2026-07-03,27403.24,Pending,Churn,Churn%
+2269,POL_11268,Comprehensive,2026-06-18,1504.39,Success,Rention,Retention%
+2270,POL_11269,Child Care,2026-07-04,6892.24,Success,Rention,Retention%
+2271,POL_11270,Women Care,2026-06-06,2634.02,Pending,Churn,Churn%
+2272,POL_11271,Women Care,2026-05-30,2417.45,Pending,Churn,Churn%
+2273,POL_11272,Women Care,2026-06-01,11582.66,Success,Rention,Retention%
+2274,POL_11273,Family Health Optima,2026-05-14,3797.64,Pending,Churn,Churn%
+2275,POL_11274,Comprehensive,2026-06-06,13634.67,Success,Rention,Retention%
+2276,POL_11275,Child Care,2026-05-09,8767.46,Success,Rention,Retention%
+2277,POL_11276,Women Care,2026-06-04,2193.56,Success,Rention,Retention%
+2278,POL_11277,Women Care,2026-06-13,3485.63,Pending,Churn,Churn%
+2279,POL_11278,Child Care,2026-05-21,17969.63,Pending,Churn,Churn%
+2280,POL_11279,Comprehensive,2026-06-25,3351.29,Pending,Churn,Churn%
+2281,POL_11280,Family Health Optima,2026-06-14,6626.94,Success,Rention,Retention%
+2282,POL_11281,Family Health Optima,2026-06-03,19628.56,Success,Rention,Retention%
+2283,POL_11282,Family Health Optima,2026-06-04,11426.77,Pending,Churn,Churn%
+2284,POL_11283,Child Care,2026-05-18,1376.28,Success,Rention,Retention%
+2285,POL_11284,Child Care,2026-05-29,37923.1,Success,Rention,Retention%
+2286,POL_11285,Comprehensive,2026-06-10,6827.74,Pending,Churn,Churn%
+2287,POL_11286,Comprehensive,2026-05-25,2986.1,Pending,Churn,Churn%
+2288,POL_11287,Family Health Optima,2026-06-07,4377.96,Success,Rention,Retention%
+2289,POL_11288,Child Care,2026-05-27,30675.66,Success,Rention,Retention%
+2290,POL_11289,Family Health Optima,2026-06-19,5717.98,Success,Rention,Retention%
+2291,POL_11290,Child Care,2026-06-25,5707.12,Success,Rention,Retention%
+2292,POL_11291,Child Care,2026-06-18,27862.92,Success,Rention,Retention%
+2293,POL_11292,Comprehensive,2026-05-26,1212.27,Success,Rention,Retention%
+2294,POL_11293,Family Health Optima,2026-06-21,7441.51,Success,Rention,Retention%
+2295,POL_11294,Family Health Optima,2026-06-18,9544.9,Success,Rention,Retention%
+2296,POL_11295,Comprehensive,2026-05-21,1571.82,Pending,Churn,Churn%
+2297,POL_11296,Family Health Optima,2026-05-24,1367.14,Success,Rention,Retention%
+2298,POL_11297,Women Care,2026-05-19,3472.35,Pending,Churn,Churn%
+2299,POL_11298,Comprehensive,2026-06-10,4209.18,Success,Rention,Retention%
+2300,POL_11299,Family Health Optima,2026-06-22,2168.66,Success,Rention,Retention%
+2301,POL_11300,Comprehensive,2026-06-01,50074.3,Success,Rention,Retention%
+2302,POL_11301,Child Care,2026-05-26,37374.53,Success,Rention,Retention%
+2303,POL_11302,Comprehensive,2026-06-21,2567.03,Success,Rention,Retention%
+2304,POL_11303,Women Care,2026-06-17,30263.78,Success,Rention,Retention%
+2305,POL_11304,Family Health Optima,2026-06-13,17007.5,Success,Rention,Retention%
+2306,POL_11305,Family Health Optima,2026-06-12,1971.7,Success,Rention,Retention%
+2307,POL_11306,Women Care,2026-07-01,12892.24,Success,Rention,Retention%
+2308,POL_11307,Child Care,2026-06-21,17177.98,Pending,Churn,Churn%
+2309,POL_11308,Family Health Optima,2026-06-23,27120.52,Success,Rention,Retention%
+2310,POL_11309,Women Care,2026-06-01,5500.77,Success,Rention,Retention%
+2311,POL_11310,Women Care,2026-06-13,5552.73,Success,Rention,Retention%
+2312,POL_11311,Child Care,2026-06-02,3657.13,Success,Rention,Retention%
+2313,POL_11312,Comprehensive,2026-05-25,3629.01,Success,Rention,Retention%
+2314,POL_11313,Family Health Optima,2026-06-01,29118.06,Success,Rention,Retention%
+2315,POL_11314,Women Care,2026-06-13,15012.7,Success,Rention,Retention%
+2316,POL_11315,Family Health Optima,2026-06-15,9017.86,Success,Rention,Retention%
+2317,POL_11316,Comprehensive,2026-06-05,1385.34,Pending,Churn,Churn%
+2318,POL_11317,Comprehensive,2026-06-17,930.77,Pending,Churn,Churn%
+2319,POL_11318,Women Care,2026-06-04,15597.38,Success,Rention,Retention%
+2320,POL_11319,Child Care,2026-07-06,5761.36,Pending,Churn,Churn%
+2321,POL_11320,Family Health Optima,2026-06-11,4340.02,Success,Rention,Retention%
+2322,POL_11321,Comprehensive,2026-06-09,22481.06,Success,Rention,Retention%
+2323,POL_11322,Child Care,2026-06-10,10385.08,Success,Rention,Retention%
+2324,POL_11323,Family Health Optima,2026-06-29,35117.1,Success,Rention,Retention%
+2325,POL_11324,Comprehensive,2026-05-24,3391.91,Success,Rention,Retention%
+2326,POL_11325,Family Health Optima,2026-06-13,10514.67,Pending,Churn,Churn%
+2327,POL_11326,Child Care,2026-06-24,5640.02,Success,Rention,Retention%
+2328,POL_11327,Comprehensive,2026-05-19,7502.32,Pending,Churn,Churn%
+2329,POL_11328,Comprehensive,2026-06-02,17916.59,Success,Rention,Retention%
+2330,POL_11329,Child Care,2026-05-30,8260.17,Success,Rention,Retention%
+2331,POL_11330,Family Health Optima,2026-05-11,10103.34,Success,Rention,Retention%
+2332,POL_11331,Women Care,2026-06-11,8636.75,Success,Rention,Retention%
+2333,POL_11332,Comprehensive,2026-05-23,9129.35,Success,Rention,Retention%
+2334,POL_11333,Comprehensive,2026-06-03,8480.44,Pending,Churn,Churn%
+2335,POL_11334,Child Care,2026-05-17,1764.78,Pending,Churn,Churn%
+2336,POL_11335,Comprehensive,2026-06-09,1303.86,Success,Rention,Retention%
+2337,POL_11336,Comprehensive,2026-05-23,1606.36,Success,Rention,Retention%
+2338,POL_11337,Family Health Optima,2026-06-18,23313.09,Success,Rention,Retention%
