@@ -1,6 +1,6 @@
 
 
-# Insurance Renewal Funnel & Churn Prediction Dashboard
+# Insurance Renewal Funnel & Churn Prediction Dashboard | Python, Logistic Regression, Tableau
 
 ## Project Overview
 Customer retention is critical in health insurance, especially for high-value policies nearing renewal.
@@ -102,10 +102,3 @@ Built Renewal Propensity Dashboard with:
 - Premium customer loyalty discounts
 - Renewal reminders for high & medium-risk users
 - Targeted retention campaigns for Child Care segment    
-
----
-
-## Resume Project Title
-**Insurance Renewal Funnel & Churn Prediction Dashboard | Python, Logistic Regression, Tableau**
-=======
-# insurance-renewal-churn-analysis
